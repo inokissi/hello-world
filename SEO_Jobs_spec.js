@@ -5,7 +5,7 @@
 describe('New URL structure on Job listing', function(){
   var url,Category,H1,H2,Meta
 
-  it('should visit URL and check SEO content', function(){
+  it('should visit Job Listing page and check if the URL is displayed in the new format', function(){
 
     // Enter URL
     cy.visit('/freelance-jobs')
