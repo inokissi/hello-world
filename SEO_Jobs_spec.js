@@ -1,9 +1,9 @@
 // JIRA link : https://peopleperhour.atlassian.net/browse/PCM-481
 // Project : PCM
-// Sprint : MAR Sprint 7, MAR Sprint 8, PCM Sprint 11, PCM Sprint 13, PCM Sprint 14
 //
 describe('New URL structure on Job listing', function(){
-  var url,Category,H1,H2,Meta
+  var url,Category,H1,H2,Meta,cat,subs,numOfRows,j
+
 
   it('should visit Job Listing page and check if the URL is displayed in the new format', function(){
 
@@ -20,18 +20,22 @@ describe('New URL structure on Job listing', function(){
        // Select Category
        cy.get('.category-tree > :nth-child('+i+') > a').click()
 
-       // Select Subcategory
-       for (var j = 0; j < 2; j++) {
-        cy.get('.selected > .tree-node > :nth-child('+(j+1)+') > a').click()
+       // Count the category length
+       cy.get('.selected > .tree-node li').then(function ($element) {
+         const numOfRows = $element.length
 
-        // Check if the URL is displayed in accordance to the new format
-        cy.url().should('include', json[j].New)
+         // Select Subcategory
+         for (var j = 0; j < numOfRows; j++) {
+          cy.get('.selected > .tree-node > :nth-child('+(j+1)+') > a').click()
 
-        // Check if the Heading match the Category
-        cy.get('.results-wording').should('contain',json[i].Category);
+          // Check if the URL displayed is the new format
+          cy.url().should('include', json[j].New)
 
-       }
-     }
+          // Check if the Heading match the Category
+          cy.get('.results-wording').should('contain',json[i].Category);
+         }
+       })
+      }
     })
   })
 })
