@@ -1,12 +1,15 @@
 describe('REFERRAL PROGRAM', function() {
     it('should send invitation', function() {
       cy.visit('/site/login')
+
       // it should enter email address
       cy.get('#main-container .login-form-container form input[name="LoginForm[email]"]')
         .type('penny+referrals01@peopleperhour.com')
+
       // it should enter password
       cy.get('#main-container .login-form-container form input[name="LoginForm[password]"]')
         .type('qwerty123')
+
       // it should click the LOG IN button
       cy.get('#main-container .login-form-container form input[type="submit"]')
         .click()
@@ -19,6 +22,7 @@ describe('REFERRAL PROGRAM', function() {
       cy.get('.menu__dropdown⤍HeaderLoggedLegacy⤚21mc2 > :nth-child(6) > a').contains("Invite & Earn").click({force:true})
 
       cy.url().should('include', '/referral-program')
+      
       // it should enter the email address of the person that is going to be invited
       for (var i = 0; i < 3; i++) {
         cy.get('#reactContainer form input[placeholder="Enter email address (separate multiple email addresses with comma)"]')
