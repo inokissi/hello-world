@@ -4,6 +4,8 @@
 //                Browse (instead of Buy, Sell)
 //                Become a Freelancer -> Signup page (Seller/Individual option is preselected)
 //                Check video and prototype in the Epic.
+//
+// Test Case    : https://peopleperhour.atlassian.net/browse/TRO-954
 
 describe('Header displayed to anonymous user', function(){
 
@@ -22,11 +24,11 @@ describe('Header displayed to anonymous user', function(){
   context('Become a Freelancer',function(){
 
     it('should have "Become a Freelancer" category added',function() {
-      cy.get('#reactContainer .header__nav⤍Header⤚3MZJC').should('contain','Become a freelancer')
+      cy.get('#reactContainer .header__login⤍Header⤚3d6BY').should('contain','Freelancer')
     })
 
-    it('the user should land on signup page when clicking on "Become a Freelancer" ',function() {
-      cy.get('#reactContainer .header__nav⤍Header⤚3MZJC').contains('Become a freelancer').click()
+    it('the user should land on signup page when clicking on "Freelancer" ',function() {
+      cy.get('#reactContainer .header__login⤍Header⤚3d6BY').contains('Freelancer').click()
       cy.url().should('contain','/site/register')
     })
   })
