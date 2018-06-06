@@ -1,61 +1,80 @@
 // Jira story   : https://peopleperhour.atlassian.net/browse/PCM-681
 
 describe('Freelancer Listing : URLs', function(){
-  it('"canonical" url should have the following format /hire-freelancers/<Category>/<Subcategory>"', function(){
+  // it('"canonical" url should have the following format /hire-freelancers/<Category>/<Subcategory>', function(){
+  //
+  //   //Go to Freelancer listing
+  //   cy.visit('/hire-freelancers')
+  //
+  //   // Read file
+  //   cy.readFile('cypress/integration/SEO_FL_redirects.json').then(function (json) {
+  //     for (var i = 1; i < 3; i++) {
+  //
+  //       // Visit URL
+  //       cy.visit(json[i].New)
+  //
+  //       // Check "canonical"
+  //       cy.get('link[rel="canonical"]').should('have.attr', 'href', 'https://staging.peopleperhour.com'+json[i].New)
+  //     }
+  //   })
+  // })
+  context('next link', function(){
+    it('should have the following format /hire-freelancers/<Category>/<Subcategory>?page=<CurrentPageNum+1>', function(){
 
-    //Go to Freelancer listing
-    cy.visit('/hire-freelancers')
+      //Go to Freelancer listing
+      cy.visit('/hire-freelancers')
 
-    // Read file
-    cy.readFile('cypress/integration/SEO_FL_redirects.json').then(function (json) {
-      for (var i = 1; i < 3; i++) {
+      // Read file
+      cy.readFile('cypress/integration/SEO_FL_redirects.json').then(function (json) {
+        for (var i = 1; i < 2; i++) {
+          for (var j = 2; j < 5; j++) {
+            var k = j+1
+            // Visit next page
+            cy.visit(json[i].New+'?page='+j+'')
 
-        // Visit URL
-        cy.visit(json[i].New)
-
-        // Check "canonical"
-        cy.get('link[rel="canonical"]').should('have.attr', 'href', 'https://staging.peopleperhour.com'+json[i].New)
-      }
+            // Check "next" on 2nd page
+            cy.get('link[rel="next"]').should('have.attr', 'href', 'https://staging.peopleperhour.com'+json[i].New+'?page='+k+'')
+          }
+        }
+      })
     })
   })
-  it('"next" url should have the following format /hire-freelancers/<Category>/<Subcategory>?page=<CurrentPageNum+1>"', function(){
+  context('prev link', function(){
+    it('should not exist on first page', function(){
 
-    //Go to Freelancer listing
-    cy.visit('/hire-freelancers')
+      //Go to Freelancer listing
+      cy.visit('/hire-freelancers')
 
-    // Read file
-    cy.readFile('cypress/integration/SEO_FL_redirects.json').then(function (json) {
-      for (var i = 1; i < 3; i++) {
+      // Read file
+      cy.readFile('cypress/integration/SEO_FL_redirects.json').then(function (json) {
+        for (var i = 1; i < 2; i++) {
 
-        // Visit URL
-        cy.visit(json[i].New)
+            // Visit First page
+            cy.visit(json[i].New)
 
-        // Check "next" on 1st page
-        cy.get('link[rel="next"]').should('have.attr', 'href', 'https://staging.peopleperhour.com'+json[i].New+'?page=2')
-
-        // Go to next page
-        cy.get('#freelancer-listing-pager > :nth-child(3) > a').click()
-
-        // Check "next" on 2nd page
-        cy.get('link[rel="next"]').should('have.attr', 'href', 'https://staging.peopleperhour.com'+json[i].New+'?page=3')
-      }
+            // Check if "prev" exists on 1st page
+            cy.get('link[rel="prev"]').should('not.exist')
+        }
+      })
     })
-  })
-  it('"prev" url should have the following format /hire-freelancers/<Category>/<Subcategory>?page=<CurrentPageNum-1>"', function(){
+    it('should have the following format /hire-freelancers/<Category>/<Subcategory>?page=<CurrentPageNum-1> on any other page', function(){
 
-    //Go to Freelancer listing
-    cy.visit('/hire-freelancers')
+      //Go to Freelancer listing
+      cy.visit('/hire-freelancers')
 
-    // Read file
-    cy.readFile('cypress/integration/SEO_FL_redirects.json').then(function (json) {
-      for (var i = 1; i < 3; i++) {
+      // Read file
+      cy.readFile('cypress/integration/SEO_FL_redirects.json').then(function (json) {
+        for (var i = 1; i < 2; i++) {
+          for (var j = 2; j < 5; j++) {
+            var k = j+1
+            // Visit next page
+            cy.visit(json[i].New+'?page='+k+'')
 
-        // Visit URL
-        cy.visit(json[i].New+'?page=2')
-
-        // Check "prev" on 2nd page
-        cy.get('link[rel="prev"]').should('have.attr', 'href', 'https://staging.peopleperhour.com'+json[i].New+'?page=1')
-      }
+            // Check "prev" on next page
+            cy.get('link[rel="prev"]').should('have.attr', 'href', 'https://staging.peopleperhour.com'+json[i].New+'?page='+j+'')
+          }
+        }
+      })
     })
   })
 })
