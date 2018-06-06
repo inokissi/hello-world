@@ -1,11 +1,16 @@
 // JIRA link : https://peopleperhour.atlassian.net/browse/PCM-481
-// Project : PCM
+// Description :
+// Categories
+// From: https://www.peopleperhour.com/freelance-jobs?category=31&subcat=
+// To: https://www.peopleperhour.com/freelance-jobs/writing/
+// Subcategories
+// From: https://www.peopleperhour.com/freelance-jobs?category=31&subcat=408
+// To: https://www.peopleperhour.com/freelance-jobs/writing/letter/
 //
-describe('New URL structure on Job listing', function(){
-  var url,Category,H1,H2,Meta,cat,subs,numOfRows,j
+describe('Job Listing : URLs', function(){
+  var url,Category,subs,numOfRows,numOfCatItems
 
-
-  it('should visit Job Listing page and check if the URL is displayed in the new format', function(){
+  it('should not contain any numbering ', function(){
 
     // Enter URL
     cy.visit('/freelance-jobs')
@@ -13,29 +18,36 @@ describe('New URL structure on Job listing', function(){
     // Click "All Categories" button
     cy.get('.categories-group > .input-group-btn > .btn > span').click()
 
-    // Read Categories and Subcategories from file
-    cy.readFile('cypress/integration/SEO_Jobs.json').then(function (json) {
-     for (var i = 2; i < 3; i++) {
+    // Count the number of Category items
+    cy.get('.category-tree li').then(function ($CatItems) {
+      const numOfCatItems = $CatItems.length
 
-       // Select Category
-       cy.get('.category-tree > :nth-child('+i+') > a').click()
+      // Read Categories and Subcategories from file
+      cy.readFile('cypress/integration/SEO_Jobs.json').then(function (json) {
+       for (var i = 2; i < numOfCatItems; i++) {
 
-       // Count the category length
-       cy.get('.selected > .tree-node li').then(function ($element) {
-         const numOfRows = $element.length
+         // Select Category
+         cy.get('.category-tree > :nth-child('+i+') > a').click()
 
-         // Select Subcategory
-         for (var j = 0; j < numOfRows; j++) {
-          cy.get('.selected > .tree-node > :nth-child('+(j+1)+') > a').click()
+         // Count the number of subcategory items
+         cy.get('.selected > .tree-node li').then(function ($SubCatItems) {
+           const numOfSubCatItems = $SubCatItems.length
 
-          // Check if the URL displayed is the new format
-          cy.url().should('include', json[j].New)
+           // Select Subcategory
+           for (var j = 0; j < numOfSubCatItems; j++) {
+            cy.get('.selected > .tree-node > :nth-child('+(j+1)+') > a').click()
 
-          // Check if the Heading match the Category
-          cy.get('.results-wording').should('contain',json[i].Category);
-         }
-       })
-      }
+            // Check if the URL displayed is the new format
+            cy.url().should('include', json[j].URL)
+
+            // Check if the Heading match the Category
+            cy.get('.results-wording').should('contain',json[j].Category);
+           }
+         })
+        }
+      })
     })
   })
 })
+
+//https://www.peopleperhour.com/__/#/tests/integration/SEO_Jobs_spec.js

@@ -1,1195 +1,1195 @@
 [
   {
      "Current": "/freelance-jobs?category=26&subcat=223",
-     "New": "/freelance-jobs/admin/customer-service",
+     "URL": "/freelance-jobs/admin/customer-service",
      "Category": "Admin",
      "Subcategory": "customer-service"
    },
   {
     "Current": "/freelance-jobs?category=26&subcat=215",
-    "New": "/freelance-jobs/admin/data-entry",
+    "URL": "/freelance-jobs/admin/data-entry",
     "Category": "Admin",
     "Subcategory": "data-entry-jobs"
   },
   {
     "Current": "/freelance-jobs?category=26&subcat=225",
-    "New": "/freelance-jobs/admin/email-support",
+    "URL": "/freelance-jobs/admin/email-support",
     "Category": "Admin",
     "Subcategory": "email-support-jobs"
   },
   {
     "Current": "/freelance-jobs?category=26&subcat=220",
-    "New": "/freelance-jobs/admin/office-management",
+    "URL": "/freelance-jobs/admin/office-management",
     "Category": "Admin",
     "Subcategory": "office-management-jobs"
   },
   {
     "Current": "/freelance-jobs?category=26&subcat=224",
-    "New": "/freelance-jobs/admin/personal-assistant",
-    "Category": "admin",
+    "URL": "/freelance-jobs/admin/personal-assistance",
+    "Category": "Admin",
     "Subcategory": "personal-assistant-jobs"
   },
   {
     "Current": "/freelance-jobs?category=26&subcat=216",
-    "New": "/freelance-jobs/admin/presentating",
-    "Category": "admin",
+    "URL": "/freelance-jobs/admin/presentations",
+    "Category": "Admin",
     "Subcategory": "presentating"
   },
   {
     "Current": "/freelance-jobs?category=26&subcat=219",
-    "New": "/freelance-jobs/admin/telephone-support",
-    "Category": "admin",
+    "URL": "/freelance-jobs/admin/telephone-support",
+    "Category": "Admin",
     "Subcategory": "telephone-support-jobs"
   },
   {
     "Current": "/freelance-jobs?category=26&subcat=217",
-    "New": "/freelance-jobs/admin/transcription",
-    "Category": "admin",
+    "URL": "/freelance-jobs/admin/transcription",
+    "Category": "Admin",
     "Subcategory": "transcription-jobs"
   },
   {
     "Current": "/freelance-jobs?category=26&subcat=222",
-    "New": "/freelance-jobs/admin/virtual-assistant",
-    "Category": "admin",
+    "URL": "/freelance-jobs/admin/virtual-assistance",
+    "Category": "Admin",
     "Subcategory": "virtual-assistant-jobs"
   },
   {
     "Current": "/freelance-jobs?category=26&subcat=218",
-    "New": "/freelance-jobs/admin/word-processing",
-    "Category": "admin",
+    "URL": "/freelance-jobs/admin/word-processing",
+    "Category": "Admin",
     "Subcategory": "word-processing-jobs"
   },
   {
     "Current": "/freelance-jobs?category=26&subcat=221",
-    "New": "/freelance-jobs/admin/other",
-    "Category": "admin",
+    "URL": "/freelance-jobs/admin/other",
+    "Category": "Admin",
     "Subcategory": "other"
   },
   {
     "Current": "/freelance-jobs?category=25&subcat=",
-    "New": "/freelance-jobs/business-support",
-    "Category": "business-support",
+    "URL": "/freelance-jobs/business-support",
+    "Category": "Business-support",
     "Subcategory": ""
   },
   {
     "Current": "/freelance-jobs?category=25&subcat=203",
-    "New": "/freelance-jobs/business-support/accounting",
-    "Category": "business-support",
+    "URL": "/freelance-jobs/business-support/accounting",
+    "Category": "Business-support",
     "Subcategory": "accounting-jobs"
   },
   {
     "Current": "/freelance-jobs?category=25&subcat=205",
-    "New": "/freelance-jobs/business-support/bookkeeping",
-    "Category": "business-support",
+    "URL": "/freelance-jobs/business-support/bookkeeping",
+    "Category": "Business-support",
     "Subcategory": "bookkeeping-jobs"
   },
   {
     "Current": "/freelance-jobs?category=25&subcat=422",
-    "New": "/freelance-jobs/business-support/business-development",
-    "Category": "business-support",
+    "URL": "/freelance-jobs/business-support/business-development",
+    "Category": "Business-support",
     "Subcategory": "business-development-jobs"
   },
   {
     "Current": "/freelance-jobs?category=25&subcat=210",
-    "New": "/freelance-jobs/business-support/business-plan",
-    "Category": "business-support",
+    "URL": "/freelance-jobs/business-support/business-plan",
+    "Category": "Business-support",
     "Subcategory": "business-plan-jobs"
   },
   {
     "Current": "/freelance-jobs?category=25&subcat=420",
-    "New": "/freelance-jobs/business-support/business-consultant",
-    "Category": "business-support",
+    "URL": "/freelance-jobs/business-support/business-consultant",
+    "Category": "Business-support",
     "Subcategory": "business-consultant-jobs"
   },
   {
     "Current": "/freelance-jobs?category=25&subcat=212",
-    "New": "/freelance-jobs/business-support/data-analysist",
-    "Category": "business-support",
+    "URL": "/freelance-jobs/business-support/data-analysist",
+    "Category": "Business-support",
     "Subcategory": "data-analysist-jobs"
   },
   {
     "Current": "/freelance-jobs?category=25&subcat=418",
-    "New": "/freelance-jobs/business-support/excel-work",
-    "Category": "business-support",
+    "URL": "/freelance-jobs/business-support/excel-work",
+    "Category": "Business-support",
     "Subcategory": "excel-work"
   },
   {
     "Current": "/freelance-jobs?category=25&subcat=419",
-    "New": "/freelance-jobs/business-support/it-support",
-    "Category": "business-support",
+    "URL": "/freelance-jobs/business-support/it-support",
+    "Category": "Business-support",
     "Subcategory": "it-support-jobs"
   },
   {
     "Current": "/freelance-jobs?category=25&subcat=201",
-    "New": "/freelance-jobs/business-support/legal-work",
-    "Category": "business-support",
+    "URL": "/freelance-jobs/business-support/legal-work",
+    "Category": "Business-support",
     "Subcategory": "legal-work"
   },
   {
     "Current": "/freelance-jobs?category=25&subcat=213",
-    "New": "/freelance-jobs/business-support/market-research",
-    "Category": "business-support",
+    "URL": "/freelance-jobs/business-support/market-research",
+    "Category": "Business-support",
     "Subcategory": "market-research-jobs"
   },
   {
     "Current": "/freelance-jobs?category=25&subcat=202",
-    "New": "/freelance-jobs/business-support/recruiting",
-    "Category": "business-support",
+    "URL": "/freelance-jobs/business-support/recruiting",
+    "Category": "Business-support",
     "Subcategory": "recruiting-jobs"
   },
   {
     "Current": "/freelance-jobs?category=25&subcat=421",
-    "New": "/freelance-jobs/business-support/training",
-    "Category": "business-support",
+    "URL": "/freelance-jobs/business-support/training",
+    "Category": "Business-support",
     "Subcategory": "training-jobs"
   },
   {
     "Current": "/freelance-jobs?category=25&subcat=208",
-    "New": "/freelance-jobs/business-support/other",
-    "Category": "business-support",
+    "URL": "/freelance-jobs/business-support/other",
+    "Category": "Business-support",
     "Subcategory": "other"
   },
   {
     "Current": "/freelance-jobs?category=39&subcat=",
-    "New": "/freelance-jobs/creative-arts",
-    "Category": "creative-arts",
+    "URL": "/freelance-jobs/creative-arts",
+    "Category": "Creative-arts",
     "Subcategory": ""
   },
   {
     "Current": "/freelance-jobs?category=39&subcat=382",
-    "New": "/freelance-jobs/creative-arts/apparel-print",
-    "Category": "creative-arts",
+    "URL": "/freelance-jobs/creative-arts/apparel-print",
+    "Category": "Creative-arts",
     "Subcategory": "apparel-print"
   },
   {
     "Current": "/freelance-jobs?category=39&subcat=383",
-    "New": "/freelance-jobs/creative-arts/caricatures",
-    "Category": "creative-arts",
+    "URL": "/freelance-jobs/creative-arts/caricatures",
+    "Category": "Creative-arts",
     "Subcategory": "caricatures"
   },
   {
     "Current": "/freelance-jobs?category=39&subcat=384",
-    "New": "/freelance-jobs/creative-arts/crafts",
-    "Category": "creative-arts",
+    "URL": "/freelance-jobs/creative-arts/crafts",
+    "Category": "Creative-arts",
     "Subcategory": "crafts"
   },
   {
     "Current": "/freelance-jobs?category=39&subcat=385",
-    "New": "/freelance-jobs/creative-arts/fine-art",
-    "Category": "creative-arts",
+    "URL": "/freelance-jobs/creative-arts/fine-art",
+    "Category": "Creative-arts",
     "Subcategory": "fine-art"
   },
   {
     "Current": "/freelance-jobs?category=39&subcat=386",
-    "New": "/freelance-jobs/creative-arts/furniture-woodwork",
-    "Category": "creative-arts",
+    "URL": "/freelance-jobs/creative-arts/furniture-woodwork",
+    "Category": "Creative-arts",
     "Subcategory": "furniture-woodwork"
   },
   {
     "Current": "/freelance-jobs?category=39&subcat=388",
-    "New": "/freelance-jobs/creative-arts/jewelry",
-    "Category": "creative-arts",
+    "URL": "/freelance-jobs/creative-arts/jewelry",
+    "Category": "Creative-arts",
     "Subcategory": "jewelry"
   },
   {
     "Current": "/freelance-jobs?category=39&subcat=391",
-    "New": "/freelance-jobs/creative-arts/painting",
-    "Category": "creative-arts",
+    "URL": "/freelance-jobs/creative-arts/painting",
+    "Category": "Creative-arts",
     "Subcategory": "painting"
   },
   {
     "Current": "/freelance-jobs?category=39&subcat=390",
-    "New": "/freelance-jobs/creative-arts/posters",
-    "Category": "creative-arts",
+    "URL": "/freelance-jobs/creative-arts/posters",
+    "Category": "Creative-arts",
     "Subcategory": "posters"
   },
   {
     "Current": "/freelance-jobs?category=39&subcat=392",
-    "New": "/freelance-jobs/creative-arts/sculpture",
-    "Category": "creative-arts",
+    "URL": "/freelance-jobs/creative-arts/sculpture",
+    "Category": "Creative-arts",
     "Subcategory": "sculpture"
   },
   {
     "Current": "/freelance-jobs?category=27&subcat=",
-    "New": "/freelance-jobs/design",
-    "Category": "design",
+    "URL": "/freelance-jobs/design",
+    "Category": "Design",
     "Subcategory": ""
   },
   {
     "Current": "/freelance-jobs?category=27&subcat=227",
-    "New": "/freelance-jobs/design/3d-modelling",
-    "Category": "design",
+    "URL": "/freelance-jobs/design/3d-modelling",
+    "Category": "Design",
     "Subcategory": "3d-modelling-jobs"
   },
   {
     "Current": "/freelance-jobs?category=27&subcat=238",
-    "New": "/freelance-jobs/design/animation",
-    "Category": "design",
+    "URL": "/freelance-jobs/design/animation",
+    "Category": "Design",
     "Subcategory": "animation"
   },
   {
     "Current": "/freelance-jobs?category=27&subcat=397",
-    "New": "/freelance-jobs/design/banner-adverts",
-    "Category": "design",
+    "URL": "/freelance-jobs/design/banner-adverts",
+    "Category": "Design",
     "Subcategory": "banner-adverts"
   },
   {
     "Current": "/freelance-jobs?category=27&subcat=226",
-    "New": "/freelance-jobs/design/book-magazine",
-    "Category": "design",
+    "URL": "/freelance-jobs/design/book-magazine",
+    "Category": "Design",
     "Subcategory": "book-magazine"
   },
   {
     "Current": "/freelance-jobs?category=27&subcat=228",
-    "New": "/freelance-jobs/design/brochure-flyer-leaflet",
-    "Category": "design",
+    "URL": "/freelance-jobs/design/brochure-flyer-leaflet",
+    "Category": "Design",
     "Subcategory": "brochure-flyer-leaflet"
   },
   {
     "Current": "/freelance-jobs?category=27&subcat=229",
-    "New": "/freelance-jobs/design/business-card-stationery",
-    "Category": "design",
+    "URL": "/freelance-jobs/design/business-card-stationery",
+    "Category": "Design",
     "Subcategory": "business-card-stationery"
   },
   {
     "Current": "/freelance-jobs?category=27&subcat=234",
-    "New": "/freelance-jobs/design/cad-drawing",
-    "Category": "design",
+    "URL": "/freelance-jobs/design/cad-drawing",
+    "Category": "Design",
     "Subcategory": "cad-drawing"
   },
   {
     "Current": "/freelance-jobs?category=27&subcat=398",
-    "New": "/freelance-jobs/design/comic-cartoon",
-    "Category": "design",
+    "URL": "/freelance-jobs/design/comic-cartoon",
+    "Category": "Design",
     "Subcategory": "comic-cartoon-jobs"
   },
   {
     "Current": "/freelance-jobs?category=27&subcat=399",
-    "New": "/freelance-jobs/design/email-newsletter",
-    "Category": "design",
-    "Subcategory": "email-newsletter"
+    "URL": "/freelance-jobs/design/email-URLsletter",
+    "Category": "Design",
+    "Subcategory": "email-URLsletter"
   },
   {
     "Current": "/freelance-jobs?category=27&subcat=230",
-    "New": "/freelance-jobs/design/illustration-graphics",
-    "Category": "design",
+    "URL": "/freelance-jobs/design/illustration-graphics",
+    "Category": "Design",
     "Subcategory": "illustration-graphics"
   },
   {
     "Current": "/freelance-jobs?category=27&subcat=396",
-    "New": "/freelance-jobs/design/interior-design",
-    "Category": "design",
+    "URL": "/freelance-jobs/design/interior-design",
+    "Category": "Design",
     "Subcategory": "interior-design-jobs"
   },
   {
     "Current": "/freelance-jobs?category=27&subcat=236",
-    "New": "/freelance-jobs/design/label-packaging",
-    "Category": "design",
+    "URL": "/freelance-jobs/design/label-packaging",
+    "Category": "Design",
     "Subcategory": "label-packaging"
   },
   {
     "Current": "/freelance-jobs?category=27&subcat=232",
-    "New": "/freelance-jobs/design/logo-design",
-    "Category": "design",
+    "URL": "/freelance-jobs/design/logo-design",
+    "Category": "Design",
     "Subcategory": "logo-design-jobs"
   },
   {
     "Current": "/freelance-jobs?category=27&subcat=400",
-    "New": "/freelance-jobs/design/presentation",
-    "Category": "design",
+    "URL": "/freelance-jobs/design/presentation",
+    "Category": "Design",
     "Subcategory": "presentation-jobs"
   },
   {
     "Current": "/freelance-jobs?category=27&subcat=395",
-    "New": "/freelance-jobs/design/social-media-design",
-    "Category": "design",
+    "URL": "/freelance-jobs/design/social-media-design",
+    "Category": "Design",
     "Subcategory": "social-media-design-jobs"
   },
   {
     "Current": "/freelance-jobs?category=27&subcat=235",
-    "New": "/freelance-jobs/design/t-shirt-clothing",
-    "Category": "design",
+    "URL": "/freelance-jobs/design/t-shirt-clothing",
+    "Category": "Design",
     "Subcategory": "t-shirt-clothing"
   },
   {
     "Current": "/freelance-jobs?category=27&subcat=237",
-    "New": "/freelance-jobs/design/web-design",
-    "Category": "design",
+    "URL": "/freelance-jobs/design/web-design",
+    "Category": "Design",
     "Subcategory": "web-design-jobs"
   },
   {
     "Current": "/freelance-jobs?category=27&subcat=233",
-    "New": "/freelance-jobs/design/other",
-    "Category": "design",
+    "URL": "/freelance-jobs/design/other",
+    "Category": "Design",
     "Subcategory": "other"
   },
   {
     "Current": "/freelance-jobs?category=38&subcat=",
-    "New": "/freelance-jobs/extraordinary",
-    "Category": "extraordinary",
+    "URL": "/freelance-jobs/extraordinary",
+    "Category": "Extraordinary",
     "Subcategory": ""
   },
   {
     "Current": "/freelance-jobs?category=38&subcat=381",
-    "New": "/freelance-jobs/extraordinary/special-missions",
-    "Category": "extraordinary",
+    "URL": "/freelance-jobs/extraordinary/special-missions",
+    "Category": "Extraordinary",
     "Subcategory": "special-missions"
   },
   {
     "Current": "/freelance-jobs?category=29&subcat=",
-    "New": "/freelance-jobs/marketing-pr/",
-    "Category": "marketing-pr",
+    "URL": "/freelance-jobs/marketing-pr/",
+    "Category": "Marketing-pr",
     "Subcategory": ""
   },
   {
     "Current": "/freelance-jobs?category=29&subcat=254",
-    "New": "/freelance-jobs/marketing-pr/atl-advertising",
-    "Category": "marketing-pr",
+    "URL": "/freelance-jobs/marketing-pr/atl-advertising",
+    "Category": "Marketing-pr",
     "Subcategory": "atl-advertising"
   },
   {
     "Current": "/freelance-jobs?category=29&subcat=257",
-    "New": "/freelance-jobs/marketing-pr/btl-advertising",
-    "Category": "marketing-pr",
+    "URL": "/freelance-jobs/marketing-pr/btl-advertising",
+    "Category": "Marketing-pr",
     "Subcategory": "btl-advertising"
   },
   {
     "Current": "/freelance-jobs?category=29&subcat=260",
-    "New": "/freelance-jobs/marketing-pr/display-advertising",
-    "Category": "marketing-pr",
+    "URL": "/freelance-jobs/marketing-pr/display-advertising",
+    "Category": "Marketing-pr",
     "Subcategory": "display-advertising"
   },
   {
     "Current": "/freelance-jobs?category=29&subcat=252",
-    "New": "/freelance-jobs/marketing-pr/email-marketing",
-    "Category": "marketing-pr",
+    "URL": "/freelance-jobs/marketing-pr/email-marketing",
+    "Category": "Marketing-pr",
     "Subcategory": "email-marketing-jobs"
   },
   {
     "Current": "/freelance-jobs?category=29&subcat=256",
-    "New": "/freelance-jobs/marketing-pr/general-communications",
-    "Category": "marketing-pr",
+    "URL": "/freelance-jobs/marketing-pr/general-communications",
+    "Category": "Marketing-pr",
     "Subcategory": "general-communications"
   },
   {
     "Current": "/freelance-jobs?category=29&subcat=249",
-    "New": "/freelance-jobs/marketing-pr/lead-generation",
-    "Category": "marketing-pr",
+    "URL": "/freelance-jobs/marketing-pr/lead-generation",
+    "Category": "Marketing-pr",
     "Subcategory": "lead-generation-jobs"
   },
   {
     "Current": "/freelance-jobs?category=29&subcat=255",
-    "New": "/freelance-jobs/marketing-pr/offline-marketing",
-    "Category": "marketing-pr",
+    "URL": "/freelance-jobs/marketing-pr/offline-marketing",
+    "Category": "Marketing-pr",
     "Subcategory": "offline-marketing"
   },
   {
     "Current": "/freelance-jobs?category=29&subcat=259",
-    "New": "/freelance-jobs/marketing-pr/press-media-relations",
-    "Category": "marketing-pr",
+    "URL": "/freelance-jobs/marketing-pr/press-media-relations",
+    "Category": "Marketing-pr",
     "Subcategory": "press-media-relations"
   },
   {
     "Current": "/freelance-jobs?category=29&subcat=253",
-    "New": "/freelance-jobs/marketing-pr/press-releases",
-    "Category": "marketing-pr",
+    "URL": "/freelance-jobs/marketing-pr/press-releases",
+    "Category": "Marketing-pr",
     "Subcategory": "press-releases"
   },
   {
     "Current": "/freelance-jobs?category=29&subcat=250",
-    "New": "/freelance-jobs/marketing-pr/telemarketing",
-    "Category": "marketing-pr",
+    "URL": "/freelance-jobs/marketing-pr/telemarketing",
+    "Category": "Marketing-pr",
     "Subcategory": "telemarketing-jobs"
   },
   {
     "Current": "/freelance-jobs?category=29&subcat=258",
-    "New": "/freelance-jobs/marketing-pr/viral-campaigns",
-    "Category": "marketing-pr",
+    "URL": "/freelance-jobs/marketing-pr/viral-campaigns",
+    "Category": "Marketing-pr",
     "Subcategory": "viral-campaigns"
   },
   {
     "Current": "/freelance-jobs?category=29&subcat=251",
-    "New": "/freelance-jobs/marketing-pr/other",
-    "Category": "marketing-pr",
+    "URL": "/freelance-jobs/marketing-pr/other",
+    "Category": "Marketing-pr",
     "Subcategory": "other"
   },
   {
     "Current": "/freelance-jobs?category=28&subcat=",
-    "New": "/freelance-jobs/mobile-app",
+    "URL": "/freelance-jobs/mobile-app",
     "Category": "mobile-app",
     "Subcategory": ""
   },
   {
     "Current": "/freelance-jobs?category=28&subcat=241",
-    "New": "/freelance-jobs/mobile-app-jobs/android",
+    "URL": "/freelance-jobs/mobile-app-jobs/android",
     "Category": "mobile-app",
     "Subcategory": "android"
   },
   {
     "Current": "/freelance-jobs?category=28&subcat=245",
-    "New": "/freelance-jobs/mobile-app-jobs/ipad",
+    "URL": "/freelance-jobs/mobile-app-jobs/ipad",
     "Category": "mobile-app",
     "Subcategory": "ipad"
   },
   {
     "Current": "/freelance-jobs?category=28&subcat=240",
-    "New": "/freelance-jobs/mobile-app-jobs/iphone",
+    "URL": "/freelance-jobs/mobile-app-jobs/iphone",
     "Category": "mobile-app",
     "Subcategory": "iphone"
   },
   {
     "Current": "/freelance-jobs?category=28&subcat=246",
-    "New": "/freelance-jobs/mobile-app-jobs/mobile-testing",
+    "URL": "/freelance-jobs/mobile-app-jobs/mobile-testing",
     "Category": "mobile-app",
     "Subcategory": "mobile-testing"
   },
   {
     "Current": "/freelance-jobs?category=28&subcat=244",
-    "New": "/freelance-jobs/mobile-app-jobs/mobile-website",
+    "URL": "/freelance-jobs/mobile-app-jobs/mobile-website",
     "Category": "mobile-app",
     "Subcategory": "mobile-website-jobs"
   },
   {
     "Current": "/freelance-jobs?category=28&subcat=248",
-    "New": "/freelance-jobs/mobile-app-jobs/other",
+    "URL": "/freelance-jobs/mobile-app-jobs/other",
     "Category": "mobile-app",
     "Subcategory": "other"
   },
   {
     "Current": "/freelance-jobs?category=34&subcat=",
-    "New": "/freelance-jobs/search-marketing",
+    "URL": "/freelance-jobs/search-marketing",
     "Category": "search-marketing",
     "Subcategory": ""
   },
   {
     "Current": "/freelance-jobs?category=34&subcat=331",
-    "New": "/freelance-jobs/search-marketing/article-submission",
+    "URL": "/freelance-jobs/search-marketing/article-submission",
     "Category": "search-marketing",
     "Subcategory": "article-submission"
   },
   {
     "Current": "/freelance-jobs?category=34&subcat=333",
-    "New": "/freelance-jobs/search-marketing/bing-yahoo-ppc",
+    "URL": "/freelance-jobs/search-marketing/bing-yahoo-ppc",
     "Category": "search-marketing",
     "Subcategory": "bing-yahoo-ppc-jobs"
   },
   {
     "Current": "/freelance-jobs?category=34&subcat=329",
-    "New": "/freelance-jobs/search-marketing/google-adwords",
+    "URL": "/freelance-jobs/search-marketing/google-adwords",
     "Category": "search-marketing",
     "Subcategory": "google-adwords-jobs"
   },
   {
     "Current": "/freelance-jobs?category=34&subcat=335",
-    "New": "/freelance-jobs/search-marketing/keyword-research",
+    "URL": "/freelance-jobs/search-marketing/keyword-research",
     "Category": "search-marketing",
     "Subcategory": "keyword-research-jobs"
   },
   {
     "Current": "/freelance-jobs?category=34&subcat=330",
-    "New": "/freelance-jobs/search-marketing/link-building",
+    "URL": "/freelance-jobs/search-marketing/link-building",
     "Category": "search-marketing",
     "Subcategory": "link-building"
   },
   {
     "Current": "/freelance-jobs?category=34&subcat=332",
-    "New": "/freelance-jobs/search-marketing/on-site-seo",
+    "URL": "/freelance-jobs/search-marketing/on-site-seo",
     "Category": "search-marketing",
     "Subcategory": "on-site-seo"
   },
   {
     "Current": "/freelance-jobs?category=34&subcat=334",
-    "New": "/freelance-jobs/search-marketing/seo-training",
+    "URL": "/freelance-jobs/search-marketing/seo-training",
     "Category": "search-marketing",
     "Subcategory": "seo-training"
   },
   {
     "Current": "/freelance-jobs?category=34&subcat=336",
-    "New": "/freelance-jobs/search-marketing/other",
+    "URL": "/freelance-jobs/search-marketing/other",
     "Category": "search-marketing",
     "Subcategory": "other"
   },
   {
     "Current": "/freelance-jobs?category=37&subcat=",
-    "New": "/freelance-jobs/social-media",
+    "URL": "/freelance-jobs/social-media",
     "Category": "social-media",
     "Subcategory": ""
   },
   {
     "Current": "/freelance-jobs?category=37&subcat=371",
-    "New": "/freelance-jobs/social-media/blogosphere",
+    "URL": "/freelance-jobs/social-media/blogosphere",
     "Category": "social-media",
     "Subcategory": "blogosphere"
   },
   {
     "Current": "/freelance-jobs?category=37&subcat=372",
-    "New": "/freelance-jobs/social-media/community-management",
+    "URL": "/freelance-jobs/social-media/community-management",
     "Category": "social-media",
     "Subcategory": "community-management-jobs"
   },
   {
     "Current": "/freelance-jobs?category=37&subcat=373",
-    "New": "/freelance-jobs/social-media/facebook",
+    "URL": "/freelance-jobs/social-media/facebook",
     "Category": "social-media",
     "Subcategory": "facebook"
   },
   {
     "Current": "/freelance-jobs?category=37&subcat=374",
-    "New": "/freelance-jobs/social-media/google-plus",
+    "URL": "/freelance-jobs/social-media/google-plus",
     "Category": "social-media",
     "Subcategory": "google-plus"
   },
   {
     "Current": "/freelance-jobs?category=37&subcat=375",
-    "New": "/freelance-jobs/social-media/linkedin",
+    "URL": "/freelance-jobs/social-media/linkedin",
     "Category": "social-media",
     "Subcategory": "linkedin-jobs"
   },
   {
     "Current": "/freelance-jobs?category=37&subcat=377",
-    "New": "/freelance-jobs/social-media/social-media-strategy",
+    "URL": "/freelance-jobs/social-media/social-media-strategy",
     "Category": "social-media",
     "Subcategory": "social-media-strategy"
   },
   {
     "Current": "/freelance-jobs?category=37&subcat=378",
-    "New": "/freelance-jobs/social-media/twitter",
+    "URL": "/freelance-jobs/social-media/twitter",
     "Category": "social-media",
     "Subcategory": "twitter"
   },
   {
     "Current": "/freelance-jobs?category=37&subcat=379",
-    "New": "/freelance-jobs/social-media/virals",
+    "URL": "/freelance-jobs/social-media/virals",
     "Category": "social-media",
     "Subcategory": "virals"
   },
   {
     "Current": "/freelance-jobs?category=37&subcat=380",
-    "New": "/freelance-jobs/social-media/youtube",
+    "URL": "/freelance-jobs/social-media/youtube",
     "Category": "social-media",
     "Subcategory": "youtube"
   },
   {
     "Current": "/freelance-jobs?category=37&subcat=376",
-    "New": "/freelance-jobs/social-media/other",
+    "URL": "/freelance-jobs/social-media/other",
     "Category": "social-media",
     "Subcategory": "other"
   },
   {
     "Current": "/freelance-jobs?category=36&subcat=",
-    "New": "/freelance-jobs/software-development",
+    "URL": "/freelance-jobs/software-development",
     "Category": "software-development",
     "Subcategory": ""
   },
   {
     "Current": "/freelance-jobs?category=36&subcat=415",
-    "New": "/freelance-jobs/software-development/net",
+    "URL": "/freelance-jobs/software-development/net",
     "Category": "software-development",
     "Subcategory": "net-jobs"
   },
   {
     "Current": "/freelance-jobs?category=36&subcat=357",
-    "New": "/freelance-jobs/software-development/application-development",
+    "URL": "/freelance-jobs/software-development/application-development",
     "Category": "software-development",
     "Subcategory": "application-development"
   },
   {
     "Current": "/freelance-jobs?category=36&subcat=363",
-    "New": "/freelance-jobs/software-development/c-c-programming",
+    "URL": "/freelance-jobs/software-development/c-c-programming",
     "Category": "software-development",
     "Subcategory": "c-c-programming"
   },
   {
     "Current": "/freelance-jobs?category=36&subcat=358",
-    "New": "/freelance-jobs/software-development/database-development",
+    "URL": "/freelance-jobs/software-development/database-development",
     "Category": "software-development",
     "Subcategory": "database-development"
   },
   {
     "Current": "/freelance-jobs?category=36&subcat=360",
-    "New": "/freelance-jobs/software-development/desktop-application",
+    "URL": "/freelance-jobs/software-development/desktop-application",
     "Category": "software-development",
     "Subcategory": "desktop-application"
   },
   {
     "Current": "/freelance-jobs?category=36&subcat=364",
-    "New": "/freelance-jobs/software-development/erp-crm",
+    "URL": "/freelance-jobs/software-development/erp-crm",
     "Category": "software-development",
     "Subcategory": "erp-crm"
   },
   {
     "Current": "/freelance-jobs?category=36&subcat=367",
-    "New": "/freelance-jobs/software-development/game-development",
+    "URL": "/freelance-jobs/software-development/game-development",
     "Category": "software-development",
     "Subcategory": "game-development"
   },
   {
     "Current": "/freelance-jobs?category=36&subcat=359",
-    "New": "/freelance-jobs/software-development/general-programming",
+    "URL": "/freelance-jobs/software-development/general-programming",
     "Category": "software-development",
     "Subcategory": "general-programming"
   },
   {
     "Current": "/freelance-jobs?category=36&subcat=412",
-    "New": "/freelance-jobs/software-development/integration-api",
+    "URL": "/freelance-jobs/software-development/integration-api",
     "Category": "software-development",
     "Subcategory": "integration-api"
   },
   {
     "Current": "/freelance-jobs?category=36&subcat=413",
-    "New": "/freelance-jobs/software-development/java-programming",
+    "URL": "/freelance-jobs/software-development/java-programming",
     "Category": "software-development",
     "Subcategory": "java-programming"
   },
   {
     "Current": "/freelance-jobs?category=36&subcat=369",
-    "New": "/freelance-jobs/software-development/plug-in-extension",
+    "URL": "/freelance-jobs/software-development/plug-in-extension",
     "Category": "software-development",
     "Subcategory": "plug-in-extension"
   },
   {
     "Current": "/freelance-jobs?category=36&subcat=416",
-    "New": "/freelance-jobs/software-development/script",
+    "URL": "/freelance-jobs/software-development/script",
     "Category": "software-development",
     "Subcategory": "script"
   },
   {
     "Current": "/freelance-jobs?category=36&subcat=417",
-    "New": "/freelance-jobs/software-development/server-system-administration",
+    "URL": "/freelance-jobs/software-development/server-system-administration",
     "Category": "software-development",
     "Subcategory": "server-system-administration"
   },
   {
     "Current": "/freelance-jobs?category=36&subcat=368",
-    "New": "/freelance-jobs/software-development/software-testing",
+    "URL": "/freelance-jobs/software-development/software-testing",
     "Category": "software-development",
     "Subcategory": "software-testing-jobs"
   },
   {
     "Current": "/freelance-jobs?category=36&subcat=414",
-    "New": "/freelance-jobs/software-development/user-interface",
+    "URL": "/freelance-jobs/software-development/user-interface",
     "Category": "software-development",
     "Subcategory": "user-interface"
   },
   {
     "Current": "/freelance-jobs?category=36&subcat=366",
-    "New": "/freelance-jobs/software-development/visual-basic",
+    "URL": "/freelance-jobs/software-development/visual-basic",
     "Category": "software-development",
     "Subcategory": "visual-basic-jobs"
   },
   {
     "Current": "/freelance-jobs?category=36&subcat=370",
-    "New": "/freelance-jobs/software-development/other",
+    "URL": "/freelance-jobs/software-development/other",
     "Category": "software-development",
     "Subcategory": "other"
   },
   {
     "Current": "/freelance-jobs?category=32&subcat=",
-    "New": "/freelance-jobs/translation",
+    "URL": "/freelance-jobs/translation",
     "Category": "translation",
     "Subcategory": ""
   },
   {
     "Current": "/freelance-jobs?category=32&subcat=286",
-    "New": "/freelance-jobs/translation/arabic",
+    "URL": "/freelance-jobs/translation/arabic",
     "Category": "translation",
     "Subcategory": "arabic"
   },
   {
     "Current": "/freelance-jobs?category=32&subcat=290",
-    "New": "/freelance-jobs/translation/chinese-cantonese",
+    "URL": "/freelance-jobs/translation/chinese-cantonese",
     "Category": "translation",
     "Subcategory": "chinese-cantonese"
   },
   {
     "Current": "/freelance-jobs?category=32&subcat=291",
-    "New": "/freelance-jobs/translation/chinese-mandarin-simplified",
+    "URL": "/freelance-jobs/translation/chinese-mandarin-simplified",
     "Category": "translation",
     "Subcategory": "chinese-mandarin-simplified"
   },
   {
     "Current": "/freelance-jobs?category=32&subcat=292",
-    "New": "/freelance-jobs/translation/chinese-mandarin",
+    "URL": "/freelance-jobs/translation/chinese-mandarin",
     "Category": "translation",
     "Subcategory": "chinese-mandarin"
   },
   {
     "Current": "/freelance-jobs?category=32&subcat=314",
-    "New": "/freelance-jobs/translation/english-uk",
+    "URL": "/freelance-jobs/translation/english-uk",
     "Category": "translation",
     "Subcategory": "english-uk"
   },
   {
     "Current": "/freelance-jobs?category=32&subcat=423",
-    "New": "/freelance-jobs/translation/english-us",
+    "URL": "/freelance-jobs/translation/english-us",
     "Category": "translation",
     "Subcategory": "english-us"
   },
   {
     "Current": "/freelance-jobs?category=32&subcat=294",
-    "New": "/freelance-jobs/translation/flemish",
+    "URL": "/freelance-jobs/translation/flemish",
     "Category": "translation",
     "Subcategory": "flemish"
   },
   {
     "Current": "/freelance-jobs?category=32&subcat=295",
-    "New": "/freelance-jobs/translation/french",
+    "URL": "/freelance-jobs/translation/french",
     "Category": "translation",
     "Subcategory": "french"
   },
   {
     "Current": "/freelance-jobs?category=32&subcat=296",
-    "New": "/freelance-jobs/translation/german",
+    "URL": "/freelance-jobs/translation/german",
     "Category": "translation",
     "Subcategory": "german"
   },
   {
     "Current": "/freelance-jobs?category=32&subcat=297",
-    "New": "/freelance-jobs/translation/greek",
+    "URL": "/freelance-jobs/translation/greek",
     "Category": "translation",
     "Subcategory": "greek"
   },
   {
     "Current": "/freelance-jobs?category=32&subcat=299",
-    "New": "/freelance-jobs/translation/hindi",
+    "URL": "/freelance-jobs/translation/hindi",
     "Category": "translation",
     "Subcategory": "hindi"
   },
   {
     "Current": "/freelance-jobs?category=32&subcat=300",
-    "New": "/freelance-jobs/translation/italian",
+    "URL": "/freelance-jobs/translation/italian",
     "Category": "translation",
     "Subcategory": "italian"
   },
   {
     "Current": "/freelance-jobs?category=32&subcat=301",
-    "New": "/freelance-jobs/translation/japanese",
+    "URL": "/freelance-jobs/translation/japanese",
     "Category": "translation",
     "Subcategory": "japanese"
   },
   {
     "Current": "/freelance-jobs?category=32&subcat=302",
-    "New": "/freelance-jobs/translation/korean",
+    "URL": "/freelance-jobs/translation/korean",
     "Category": "translation",
     "Subcategory": "korean"
   },
   {
     "Current": "/freelance-jobs?category=32&subcat=304",
-    "New": "/freelance-jobs/translation/portuguese-brazil",
+    "URL": "/freelance-jobs/translation/portuguese-brazil",
     "Category": "translation",
     "Subcategory": "portuguese-brazil"
   },
   {
     "Current": "/freelance-jobs?category=32&subcat=305",
-    "New": "/freelance-jobs/translation/portuguese-portugal",
+    "URL": "/freelance-jobs/translation/portuguese-portugal",
     "Category": "translation",
     "Subcategory": "portuguese-portugal"
   },
   {
     "Current": "/freelance-jobs?category=32&subcat=307",
-    "New": "/freelance-jobs/translation/russia",
+    "URL": "/freelance-jobs/translation/russia",
     "Category": "translation",
     "Subcategory": "russia"
   },
   {
     "Current": "/freelance-jobs?category=32&subcat=308",
-    "New": "/freelance-jobs/translation/spanish-latin-american",
+    "URL": "/freelance-jobs/translation/spanish-latin-american",
     "Category": "translation",
     "Subcategory": "spanish-latin-american"
   },
   {
     "Current": "/freelance-jobs?category=32&subcat=309",
-    "New": "/freelance-jobs/translation/spanish-spain",
+    "URL": "/freelance-jobs/translation/spanish-spain",
     "Category": "translation",
     "Subcategory": "spanish-spain"
   },
   {
     "Current": "/freelance-jobs?category=32&subcat=310",
-    "New": "/freelance-jobs/translation/swedish",
+    "URL": "/freelance-jobs/translation/swedish",
     "Category": "translation",
     "Subcategory": "swedish"
   },
   {
     "Current": "/freelance-jobs?category=32&subcat=311",
-    "New": "/freelance-jobs/translation/tamil",
+    "URL": "/freelance-jobs/translation/tamil",
     "Category": "translation",
     "Subcategory": "tamil"
   },
   {
     "Current": "/freelance-jobs?category=32&subcat=312",
-    "New": "/freelance-jobs/translation/turkish",
+    "URL": "/freelance-jobs/translation/turkish",
     "Category": "translation",
     "Subcategory": "turkish"
   },
   {
     "Current": "/freelance-jobs?category=32&subcat=315",
-    "New": "/freelance-jobs/translation/other",
+    "URL": "/freelance-jobs/translation/other",
     "Category": "translation",
     "Subcategory": "other"
   },
   {
     "Current": "/freelance-jobs?category=33&subcat=",
-    "New": "/freelance-jobs/tutorials/",
+    "URL": "/freelance-jobs/tutorials/",
     "Category": "tutorials",
     "Subcategory": ""
   },
   {
     "Current": "/freelance-jobs?category=33&subcat=316",
-    "New": "/freelance-jobs/tutorials/accounting-finance-tutor",
+    "URL": "/freelance-jobs/tutorials/accounting-finance-tutor",
     "Category": "tutorials",
     "Subcategory": "accounting-finance-tutor-jobs"
   },
   {
     "Current": "/freelance-jobs?category=33&subcat=317",
-    "New": "/freelance-jobs/tutorials/art-craft-tutor",
+    "URL": "/freelance-jobs/tutorials/art-craft-tutor",
     "Category": "tutorials",
     "Subcategory": "art-craft-tutor-jobs"
   },
   {
     "Current": "/freelance-jobs?category=33&subcat=319",
-    "New": "/freelance-jobs/tutorials/design-tutor",
+    "URL": "/freelance-jobs/tutorials/design-tutor",
     "Category": "tutorials",
     "Subcategory": "design-tutor-jobs"
   },
   {
     "Current": "/freelance-jobs?category=33&subcat=320",
-    "New": "/freelance-jobs/tutorials/language-tutor",
+    "URL": "/freelance-jobs/tutorials/language-tutor",
     "Category": "tutorials",
     "Subcategory": "language-tutor-jobs"
   },
   {
     "Current": "/freelance-jobs?category=33&subcat=321",
-    "New": "/freelance-jobs/tutorials/marketing-sales-tutor",
+    "URL": "/freelance-jobs/tutorials/marketing-sales-tutor",
     "Category": "tutorials",
     "Subcategory": "marketing-sales-tutor-jobs"
   },
   {
     "Current": "/freelance-jobs?category=33&subcat=327",
-    "New": "/freelance-jobs/tutorials/other-how-to",
+    "URL": "/freelance-jobs/tutorials/other-how-to",
     "Category": "tutorials",
     "Subcategory": "other-how-to"
   },
   {
     "Current": "/freelance-jobs?category=33&subcat=323",
-    "New": "/freelance-jobs/tutorials/programming-tutor",
+    "URL": "/freelance-jobs/tutorials/programming-tutor",
     "Category": "tutorials",
     "Subcategory": "programming-tutor-jobs"
   },
   {
     "Current": "/freelance-jobs?category=33&subcat=324",
-    "New": "/freelance-jobs/tutorials/social-media-tutor",
+    "URL": "/freelance-jobs/tutorials/social-media-tutor",
     "Category": "tutorials",
     "Subcategory": "social-media-tutor-jobs"
   },
   {
     "Current": "/freelance-jobs?category=33&subcat=325",
-    "New": "/freelance-jobs/tutorials/software-tutor",
+    "URL": "/freelance-jobs/tutorials/software-tutor",
     "Category": "tutorials",
     "Subcategory": "software-tutor-jobs"
   },
   {
     "Current": "/freelance-jobs?category=33&subcat=322",
-    "New": "/freelance-jobs/tutorials/video-photo-tutor",
+    "URL": "/freelance-jobs/tutorials/video-photo-tutor",
     "Category": "tutorials",
     "Subcategory": "video-photo-tutor-jobs"
   },
   {
     "Current": "/freelance-jobs?category=33&subcat=326",
-    "New": "/freelance-jobs/tutorials/writing-tutor",
+    "URL": "/freelance-jobs/tutorials/writing-tutor",
     "Category": "tutorials",
     "Subcategory": "writing-tutor-jobs"
   },
   {
     "Current": "/freelance-jobs?category=30&subcat=",
-    "New": "/freelance-jobs/video-photo-audio",
+    "URL": "/freelance-jobs/video-photo-audio",
     "Category": "video-photo-audio",
     "Subcategory": ""
   },
   {
     "Current": "/freelance-jobs?category=30&subcat=265",
-    "New": "/freelance-jobs/video-photo-audio/audio-editing",
+    "URL": "/freelance-jobs/video-photo-audio/audio-editing",
     "Category": "video-photo-audio",
     "Subcategory": "audio-editing-jobs"
   },
   {
     "Current": "/freelance-jobs?category=30&subcat=264",
-    "New": "/freelance-jobs/video-photo-audio/music-production",
+    "URL": "/freelance-jobs/video-photo-audio/music-production",
     "Category": "video-photo-audio",
     "Subcategory": "music-production-jobs"
   },
   {
     "Current": "/freelance-jobs?category=30&subcat=263",
-    "New": "/freelance-jobs/video-photo-audio/retouching",
+    "URL": "/freelance-jobs/video-photo-audio/retouching",
     "Category": "video-photo-audio",
     "Subcategory": "retouching-jobs"
   },
   {
     "Current": "/freelance-jobs?category=30&subcat=394",
-    "New": "/freelance-jobs/video-photo-audio/photoshoot",
+    "URL": "/freelance-jobs/video-photo-audio/photoshoot",
     "Category": "video-photo-audio",
     "Subcategory": "photoshoot"
   },
   {
     "Current": "/freelance-jobs?category=30&subcat=267",
-    "New": "/freelance-jobs/video-photo-audio/podcasts",
+    "URL": "/freelance-jobs/video-photo-audio/podcasts",
     "Category": "video-photo-audio",
     "Subcategory": "podcasts"
   },
   {
     "Current": "/freelance-jobs?category=30&subcat=272",
-    "New": "/freelance-jobs/video-photo-audio/presenting-acting",
+    "URL": "/freelance-jobs/video-photo-audio/presenting-acting",
     "Category": "video-photo-audio",
     "Subcategory": "presenting-acting-jobs"
   },
   {
     "Current": "/freelance-jobs?category=30&subcat=261",
-    "New": "/freelance-jobs/video-photo-audio/promotional-videos",
+    "URL": "/freelance-jobs/video-photo-audio/promotional-videos",
     "Category": "video-photo-audio",
     "Subcategory": "promotional-videos"
   },
   {
     "Current": "/freelance-jobs?category=30&subcat=268",
-    "New": "/freelance-jobs/video-photo-audio/screencasts",
+    "URL": "/freelance-jobs/video-photo-audio/screencasts",
     "Category": "video-photo-audio",
     "Subcategory": "screencasts"
   },
   {
     "Current": "/freelance-jobs?category=30&subcat=271",
-    "New": "/freelance-jobs/video-photo-audio/video-editing",
+    "URL": "/freelance-jobs/video-photo-audio/video-editing",
     "Category": "video-photo-audio",
     "Subcategory": "video-editing-jobs"
   },
   {
     "Current": "/freelance-jobs?category=30&subcat=270",
-    "New": "/freelance-jobs/video-photo-audio/video-production",
+    "URL": "/freelance-jobs/video-photo-audio/video-production",
     "Category": "video-photo-audio",
     "Subcategory": "video-production-jobs"
   },
   {
     "Current": "/freelance-jobs?category=30&subcat=269",
-    "New": "/freelance-jobs/video-photo-audio/videography",
+    "URL": "/freelance-jobs/video-photo-audio/videography",
     "Category": "video-photo-audio",
     "Subcategory": "videography"
   },
   {
     "Current": "/freelance-jobs?category=30&subcat=266",
-    "New": "/freelance-jobs/video-photo-audio/voiceover",
+    "URL": "/freelance-jobs/video-photo-audio/voiceover",
     "Category": "video-photo-audio",
     "Subcategory": "voiceover-jobs"
   },
   {
     "Current": "/freelance-jobs?category=30&subcat=262",
-    "New": "/freelance-jobs/video-photo-audio/other",
+    "URL": "/freelance-jobs/video-photo-audio/other",
     "Category": "video-photo-audio",
     "Subcategory": "other"
   },
   {
     "Current": "/freelance-jobs?category=35&subcat=",
-    "New": "/freelance-jobs/web-development",
+    "URL": "/freelance-jobs/web-development",
     "Category": "web-development",
     "Subcategory": ""
   },
   {
     "Current": "/freelance-jobs?category=35&subcat=402",
-    "New": "/freelance-jobs/web-development/blog",
+    "URL": "/freelance-jobs/web-development/blog",
     "Category": "web-development",
     "Subcategory": "blog"
   },
   {
     "Current": "/freelance-jobs?category=35&subcat=401",
-    "New": "/freelance-jobs/web-development/custom-website",
+    "URL": "/freelance-jobs/web-development/custom-website",
     "Category": "web-development",
     "Subcategory": "custom-website-jobs"
   },
   {
     "Current": "/freelance-jobs?category=35&subcat=348",
-    "New": "/freelance-jobs/web-development/databases",
+    "URL": "/freelance-jobs/web-development/databases",
     "Category": "web-development",
     "Subcategory": "databases"
   },
   {
     "Current": "/freelance-jobs?category=35&subcat=345",
-    "New": "/freelance-jobs/web-development/drupal",
+    "URL": "/freelance-jobs/web-development/drupal",
     "Category": "web-development",
     "Subcategory": "drupal-jobs"
   },
   {
     "Current": "/freelance-jobs?category=35&subcat=344",
-    "New": "/freelance-jobs/web-development/e-commerce",
+    "URL": "/freelance-jobs/web-development/e-commerce",
     "Category": "web-development",
     "Subcategory": "e-commerce"
   },
   {
     "Current": "/freelance-jobs?category=35&subcat=338",
-    "New": "/freelance-jobs/web-development/html-css",
+    "URL": "/freelance-jobs/web-development/html-css",
     "Category": "web-development",
     "Subcategory": "html-css-jobs"
   },
   {
     "Current": "/freelance-jobs?category=35&subcat=405",
-    "New": "/freelance-jobs/web-development/integration",
+    "URL": "/freelance-jobs/web-development/integration",
     "Category": "web-development",
     "Subcategory": "integration-jobs"
   },
   {
     "Current": "/freelance-jobs?category=35&subcat=337",
-    "New": "/freelance-jobs/web-development/javascript-jquery-ajax",
+    "URL": "/freelance-jobs/web-development/javascript-jquery-ajax",
     "Category": "web-development",
     "Subcategory": "javascript-jquery-ajax"
   },
   {
     "Current": "/freelance-jobs?category=35&subcat=341",
-    "New": "/freelance-jobs/web-development/joomla",
+    "URL": "/freelance-jobs/web-development/joomla",
     "Category": "web-development",
     "Subcategory": "joomla-jobs"
   },
   {
     "Current": "/freelance-jobs?category=35&subcat=404",
-    "New": "/freelance-jobs/web-development/magento",
+    "URL": "/freelance-jobs/web-development/magento",
     "Category": "web-development",
     "Subcategory": "magento-jobs"
   },
   {
     "Current": "/freelance-jobs?category=35&subcat=406",
-    "New": "/freelance-jobs/web-development/opencart",
+    "URL": "/freelance-jobs/web-development/opencart",
     "Category": "web-development",
     "Subcategory": "opencart-jobs"
   },
   {
     "Current": "/freelance-jobs?category=35&subcat=343",
-    "New": "/freelance-jobs/web-development/php",
+    "URL": "/freelance-jobs/web-development/php",
     "Category": "web-development",
     "Subcategory": "php-jobs"
   },
   {
     "Current": "/freelance-jobs?category=35&subcat=407",
-    "New": "/freelance-jobs/web-development/presta-shop",
+    "URL": "/freelance-jobs/web-development/presta-shop",
     "Category": "web-development",
     "Subcategory": "presta-shop"
   },
   {
     "Current": "/freelance-jobs?category=35&subcat=339",
-    "New": "/freelance-jobs/web-development/social-media-dev",
+    "URL": "/freelance-jobs/web-development/social-media-dev",
     "Category": "web-development",
     "Subcategory": "social-media-dev-jobs"
   },
   {
     "Current": "/freelance-jobs?category=35&subcat=403",
-    "New": "/freelance-jobs/web-development/theme-template",
+    "URL": "/freelance-jobs/web-development/theme-template",
     "Category": "web-development",
     "Subcategory": "theme-template"
   },
   {
     "Current": "/freelance-jobs?category=35&subcat=342",
-    "New": "/freelance-jobs/web-development/wordpress",
+    "URL": "/freelance-jobs/web-development/wordpress",
     "Category": "web-development",
     "Subcategory": "wordpress-jobs"
   },
   {
     "Current": "/freelance-jobs?category=35&subcat=355",
-    "New": "/freelance-jobs/web-development/other",
+    "URL": "/freelance-jobs/web-development/other",
     "Category": "web-development",
     "Subcategory": "other"
   },
   {
     "Current": "/freelance-jobs?category=31&subcat=",
-    "New": "/freelance-jobs/writing/",
+    "URL": "/freelance-jobs/writing/",
     "Category": "writing",
     "Subcategory": ""
   },
   {
     "Current": "/freelance-jobs?category=31&subcat=279",
-    "New": "/freelance-jobs/writing/blog-article-writing",
+    "URL": "/freelance-jobs/writing/blog-article-writing",
     "Category": "writing",
     "Subcategory": "blog-article-writing"
   },
   {
     "Current": "/freelance-jobs?category=31&subcat=410",
-    "New": "/freelance-jobs/writing/company-profile",
+    "URL": "/freelance-jobs/writing/company-profile",
     "Category": "writing",
     "Subcategory": "company-profile"
   },
   {
     "Current": "/freelance-jobs?category=31&subcat=273",
-    "New": "/freelance-jobs/writing/copywriting",
+    "URL": "/freelance-jobs/writing/copywriting",
     "Category": "writing",
     "Subcategory": "copywriting-jobs"
   },
   {
     "Current": "/freelance-jobs?category=31&subcat=274",
-    "New": "/freelance-jobs/writing/creative-writing",
+    "URL": "/freelance-jobs/writing/creative-writing",
     "Category": "writing",
     "Subcategory": "creative-writing-jobs"
   },
   {
     "Current": "/freelance-jobs?category=31&subcat=278",
-    "New": "/freelance-jobs/writing/cv-cover-letter",
+    "URL": "/freelance-jobs/writing/cv-cover-letter",
     "Category": "writing",
     "Subcategory": "cv-cover-letter"
   },
   {
     "Current": "/freelance-jobs?category=31&subcat=284",
-    "New": "/freelance-jobs/writing/ebook-writing",
+    "URL": "/freelance-jobs/writing/ebook-writing",
     "Category": "writing",
     "Subcategory": "ebook-writing-jobs"
   },
   {
     "Current": "/freelance-jobs?category=31&subcat=280",
-    "New": "/freelance-jobs/writing/editing-proofreading",
+    "URL": "/freelance-jobs/writing/editing-proofreading",
     "Category": "writing",
     "Subcategory": "editing-proofreading-jobs"
   },
   {
     "Current": "/freelance-jobs?category=31&subcat=409",
-    "New": "/freelance-jobs/writing/email-newsletter",
+    "URL": "/freelance-jobs/writing/email-URLsletter",
     "Category": "writing",
-    "Subcategory": "email-newsletter"
+    "Subcategory": "email-URLsletter"
   },
   {
     "Current": "/freelance-jobs?category=31&subcat=283",
-    "New": "/freelance-jobs/writing/ghost-writing",
+    "URL": "/freelance-jobs/writing/ghost-writing",
     "Category": "writing",
     "Subcategory": "ghost-writing-jobs"
   },
   {
     "Current": "/freelance-jobs?category=31&subcat=408",
-    "New": "/freelance-jobs/writing/letter-writing",
+    "URL": "/freelance-jobs/writing/letter-writing",
     "Category": "writing",
     "Subcategory": "letter-writing-jobs"
   },
   {
     "Current": "/freelance-jobs?category=31&subcat=411",
-    "New": "/freelance-jobs/writing/product-description-review",
+    "URL": "/freelance-jobs/writing/product-description-review",
     "Category": "writing",
     "Subcategory": "product-description-review"
   },
   {
     "Current": "/freelance-jobs?category=31&subcat=281",
-    "New": "/freelance-jobs/writing/report-writing",
+    "URL": "/freelance-jobs/writing/report-writing",
     "Category": "writing",
     "Subcategory": "report-writing"
   },
   {
     "Current": "/freelance-jobs?category=31&subcat=285",
-    "New": "/freelance-jobs/writing/screen-script-writing",
+    "URL": "/freelance-jobs/writing/screen-script-writing",
     "Category": "writing",
     "Subcategory": "screen-script-writing"
   },
   {
     "Current": "/freelance-jobs?category=31&subcat=282",
-    "New": "/freelance-jobs/writing/technical-writing",
+    "URL": "/freelance-jobs/writing/technical-writing",
     "Category": "writing",
     "Subcategory": "technical-writing-jobs"
   },
   {
     "Current": "/freelance-jobs?category=31&subcat=276",
-    "New": "/freelance-jobs/writing/website-content",
+    "URL": "/freelance-jobs/writing/website-content",
     "Category": "writing",
     "Subcategory": "website-content"
   },
   {
     "Current": "/freelance-jobs?category=31&subcat=277",
-    "New": "/freelance-jobs/writing/other",
+    "URL": "/freelance-jobs/writing/other",
     "Category": "writing",
     "Subcategory": "other"
   }

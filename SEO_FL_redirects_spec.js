@@ -2,7 +2,7 @@
 // Title        : Apply 301 redirects to /freelance pages
 // Description  : Apply redirects as found in the attached file. from /freelance to /hire-freelancers pages
 
-describe('Redirects', function(){
+describe('Freelancer Listing : Redirects', function(){
   // it('when selecting any combination of category/subcategory,the URL should include /hire-freelancers  ', function(){
   //
   //   // Go to Freelancer listing
@@ -24,7 +24,7 @@ describe('Redirects', function(){
   //   }
   // })
 
-  it('pasting a "/freelance" URL should redirect to "/hire-freelancers" page', function(){
+  it('should apply 301 redirects to /freelance pages', function(){
 
     //Go to Freelancer listing
     cy.visit('/hire-freelancers')
@@ -32,14 +32,35 @@ describe('Redirects', function(){
     // Read file
     cy.readFile('cypress/integration/SEO_FL_redirects.json')
       .then(function (json) {
-      for (var i = 0; i < json.length; i++) {
+      for (var i = 1; i < 3; i++) {
 
         // Visit old url
         cy.visit(json[i].Old)
 
         // Check if the user is redirected to the new URL
-        cy.url()
-        .should('contain',json[i].New)
+        cy.url().should('contain',json[i].New)
+      }
+    })
+  })
+
+// Jira story   : https://peopleperhour.atlassian.net/browse/PCM-790
+// Title        : Apply 301 redirects to ?ref=categories pages
+// Description  : Apply 301 redirects as found in the doc
+  it('should apply 301 redirects to ?ref=categories pages', function(){
+
+    //Go to Freelancer listing
+    cy.visit('/hire-freelancers')
+
+    // Read file
+    cy.readFile('cypress/integration/SEO_FL_redirects_ref.json')
+      .then(function (json) {
+      for (var i = 1; i < 3; i++) {
+
+        // Visit old url
+        cy.visit(json[i].Old)
+
+        // Check if the "?ref=categories" has been ommited
+        cy.url().should('not.contain','?ref=categories')
       }
     })
   })
