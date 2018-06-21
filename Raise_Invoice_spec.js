@@ -25,5 +25,5 @@ describe('Raise Invoice', function() {
 
     // Click the "Send" button
     cy.get('#stream-message-box .post-controls').contains('Send').click()
-})
+  })
 })
