@@ -1,21 +1,21 @@
 // Jira link : https://peopleperhour.atlassian.net/browse/TRO-771
-// describe('Anonymous user header - Desktop', function() {
-//   it('"Buy" and "Sell" categories removed',function() {
-//     cy.visit('')
-//     cy.get('#reactContainer Header').should('not.contain','Buy')
-//     cy.get('#reactContainer Header').should('not.contain','Sell')
-//   })
-//   it('"Browse" category added',function() {
-//     cy.get('#reactContainer Header').should('contain','Browse')
-//   })
-//   it('"Freelancer?" category added',function() {
-//     cy.get('#reactContainer Header').should('contain','Freelancer?')
-//   })
-//   it('User lands on signup page when clicking on "Freelancer?" ',function() {
-//     cy.get('Header').contains('Freelancer?').click()
-//     cy.url().should('contain','/site/register')
-//   })
-// })
+describe('Anonymous user header - Desktop', function() {
+  it('"Buy" and "Sell" categories removed',function() {
+    cy.visit('')
+    cy.get('#reactContainer Header').should('not.contain','Buy')
+    cy.get('#reactContainer Header').should('not.contain','Sell')
+  })
+  it('"Browse" category added',function() {
+    cy.get('#reactContainer Header').should('contain','Browse')
+  })
+  it('"Freelancer?" category added',function() {
+    cy.get('#reactContainer Header').should('contain','Freelancer?')
+  })
+  it('User lands on signup page when clicking on "Freelancer?" ',function() {
+    cy.get('Header').contains('Freelancer?').click()
+    cy.url().should('contain','/site/register')
+  })
+})
 
 // Jira link : https://peopleperhour.atlassian.net/browse/TRO-772
 describe('Seller header - Desktop', function() {
