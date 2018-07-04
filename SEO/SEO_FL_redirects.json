@@ -1,0 +1,1714 @@
+[
+  {
+    "Old": "/freelance",
+    "New": "/hire-freelancers"
+  },
+  {
+    "Old": "/freelance/designers",
+    "New": "/hire-freelancers/designers"
+  },
+  {
+    "Old": "/freelance/designers/brand-identity",
+    "New": "/hire-freelancers/designers/brand-identity"
+  },
+  {
+    "Old": "/freelance/designers/brand-identity/logo",
+    "New": "/hire-freelancers/designers/brand-identity/logo"
+  },
+  {
+    "Old": "/freelance/designers/brand-identity/logo/animated-logo",
+    "New": "/hire-freelancers/designers/brand-identity/logo/animated-logo"
+  },
+  {
+    "Old": "/freelance/designers/brand-identity/logo/3d-logo",
+    "New": "/hire-freelancers/designers/brand-identity/logo/3d-logo"
+  },
+  {
+    "Old": "/freelance/designers/brand-identity/logo/intro",
+    "New": "/hire-freelancers/designers/brand-identity/logo/intro"
+  },
+  {
+    "Old": "/freelance/designers/brand-identity/logo/vector",
+    "New": "/hire-freelancers/designers/brand-identity/logo/vector"
+  },
+  {
+    "Old": "/freelance/designers/brand-identity/logo/business-logo",
+    "New": "/hire-freelancers/designers/brand-identity/logo/business-logo"
+  },
+  {
+    "Old": "/freelance/designers/brand-identity/logo/logo-conversion",
+    "New": "/hire-freelancers/designers/brand-identity/logo/logo-conversion"
+  },
+  {
+    "Old": "/freelance/designers/brand-identity/logo/logotype",
+    "New": "/hire-freelancers/designers/brand-identity/logo/logotype"
+  },
+  {
+    "Old": "/freelance/designers/brand-identity/logo/vintage-logo",
+    "New": "/hire-freelancers/designers/brand-identity/logo/vintage-logo"
+  },
+  {
+    "Old": "/freelance/designers/brand-identity/business-cards",
+    "New": "/hire-freelancers/designers/brand-identity/business-cards"
+  },
+  {
+    "Old": "/freelance/designers/brand-identity/stationary",
+    "New": "/hire-freelancers/designers/brand-identity/stationary"
+  },
+  {
+    "Old": "/freelance/designers/brand-identity/stationary/card",
+    "New": "/hire-freelancers/designers/brand-identity/stationary/card"
+  },
+  {
+    "Old": "/freelance/designers/brand-identity/stationary/card/greetings-card",
+    "New": "/hire-freelancers/designers/brand-identity/stationary/card/greetings-card"
+  },
+  {
+    "Old": "/freelance/designers/brand-identity/stationary/card/wedding-invitations",
+    "New": "/hire-freelancers/designers/brand-identity/stationary/card/wedding-invitations"
+  },
+  {
+    "Old": "/freelance/designers/brand-identity/stationary/card/wedding-card",
+    "New": "/hire-freelancers/designers/brand-identity/stationary/card/wedding-card"
+  },
+  {
+    "Old": "/freelance/designers/brand-identity/stationary/card/invitations",
+    "New": "/hire-freelancers/designers/brand-identity/stationary/card/invitations"
+  },
+  {
+    "Old": "/freelance/designers/brand-identity/stationary/card/birthday-card",
+    "New": "/hire-freelancers/designers/brand-identity/stationary/card/birthday-card"
+  },
+  {
+    "Old": "/freelance/designers/brand-identity/stationary/letterhead-designer",
+    "New": "/hire-freelancers/designers/brand-identity/stationary/letterhead-designer"
+  },
+  {
+    "Old": "/freelance/designers/brand-identity/stationary/envelope-design",
+    "New": "/hire-freelancers/designers/brand-identity/stationary/envelope-design"
+  },
+  {
+    "Old": "/freelance/designers/brand-identity/stationary/postcard",
+    "New": "/hire-freelancers/designers/brand-identity/stationary/postcard"
+  },
+  {
+    "Old": "/freelance/designers/brand-identity/branding",
+    "New": "/hire-freelancers/designers/brand-identity/branding"
+  },
+  {
+    "Old": "/freelance/designers/images",
+    "New": "/hire-freelancers/designers/images"
+  },
+  {
+    "Old": "/freelance/designers/images/retouching",
+    "New": "/hire-freelancers/designers/images/retouching"
+  },
+  {
+    "Old": "/freelance/designers/images/conversion",
+    "New": "/hire-freelancers/designers/images/conversion"
+  },
+  {
+    "Old": "/freelance/designers/images/manipulation",
+    "New": "/hire-freelancers/designers/images/manipulation"
+  },
+  {
+    "Old": "/freelance/designers/images/resizing",
+    "New": "/hire-freelancers/designers/images/resizing"
+  },
+  {
+    "Old": "/freelance/designers/images/effects",
+    "New": "/hire-freelancers/designers/images/effects"
+  },
+  {
+    "Old": "/freelance/designers/images/color-correction",
+    "New": "/hire-freelancers/designers/images/color-correction"
+  },
+  {
+    "Old": "/freelance/designers/3d-artist",
+    "New": "/hire-freelancers/designers/3d-artist"
+  },
+  {
+    "Old": "/freelance/designers/3d-artist/3d-banner-design",
+    "New": "/hire-freelancers/designers/3d-artist/3d-banner-design"
+  },
+  {
+    "Old": "/freelance/designers/3d-artist/logo",
+    "New": "/hire-freelancers/designers/3d-artist/logo"
+  },
+  {
+    "Old": "/freelance/designers/3d-artist/animator",
+    "New": "/hire-freelancers/designers/3d-artist/animator"
+  },
+  {
+    "Old": "/freelance/designers/3d-artist/sketchup",
+    "New": "/hire-freelancers/designers/3d-artist/sketchup"
+  },
+  {
+    "Old": "/freelance/designers/3d-artist/modeling",
+    "New": "/hire-freelancers/designers/3d-artist/modeling"
+  },
+  {
+    "Old": "/freelance/designers/3d-artist/3d-printing-service",
+    "New": "/hire-freelancers/designers/3d-artist/3d-printing-service"
+  },
+  {
+    "Old": "/freelance/designers/3d-artist/rendering",
+    "New": "/hire-freelancers/designers/3d-artist/rendering"
+  },
+  {
+    "Old": "/freelance/designers/3d-artist/maya",
+    "New": "/hire-freelancers/designers/3d-artist/maya"
+  },
+  {
+    "Old": "/freelance/designers/arts",
+    "New": "/hire-freelancers/designers/arts"
+  },
+  {
+    "Old": "/freelance/designers/arts/icons",
+    "New": "/hire-freelancers/designers/arts/icons"
+  },
+  {
+    "Old": "/freelance/designers/arts/illustrator",
+    "New": "/hire-freelancers/designers/arts/illustrator"
+  },
+  {
+    "Old": "/freelance/designers/arts/interior-designer",
+    "New": "/hire-freelancers/designers/arts/interior-designer"
+  },
+  {
+    "Old": "/freelance/designers/arts/interior-designer/architect",
+    "New": "/hire-freelancers/designers/arts/interior-designer/architect"
+  },
+  {
+    "Old": "/freelance/designers/arts/interior-designer/house-design",
+    "New": "/hire-freelancers/designers/arts/interior-designer/house-design"
+  },
+  {
+    "Old": "/freelance/designers/arts/interior-designer/house-drawing",
+    "New": "/hire-freelancers/designers/arts/interior-designer/house-drawing"
+  },
+  {
+    "Old": "/freelance/designers/arts/interior-designer/cad",
+    "New": "/hire-freelancers/designers/arts/interior-designer/cad"
+  },
+  {
+    "Old": "/freelance/designers/arts/interior-designer/floor-plan",
+    "New": "/hire-freelancers/designers/arts/interior-designer/floor-plan"
+  },
+  {
+    "Old": "/freelance/designers/arts/interior-designer/structural-engineer",
+    "New": "/hire-freelancers/designers/arts/interior-designer/structural-engineer"
+  },
+  {
+    "Old": "/freelance/designers/arts/fashion-designer",
+    "New": "/hire-freelancers/designers/arts/fashion-designer"
+  },
+  {
+    "Old": "/freelance/designers/arts/fashion-designer/technical-drawing",
+    "New": "/hire-freelancers/designers/arts/fashion-designer/technical-drawing"
+  },
+  {
+    "Old": "/freelance/designers/arts/fashion-designer/patter-cutter",
+    "New": "/hire-freelancers/designers/arts/fashion-designer/patter-cutter"
+  },
+  {
+    "Old": "/freelance/designers/arts/fashion-designer/cloth",
+    "New": "/hire-freelancers/designers/arts/fashion-designer/cloth"
+  },
+  {
+    "Old": "/freelance/designers/arts/fashion-designer/apparel",
+    "New": "/hire-freelancers/designers/arts/fashion-designer/apparel"
+  },
+  {
+    "Old": "/freelance/designers/arts/fashion-designer/textile-weaver",
+    "New": "/hire-freelancers/designers/arts/fashion-designer/textile-weaver"
+  },
+  {
+    "Old": "/freelance/designers/arts/fashion-designer/seamstress-seamster",
+    "New": "/hire-freelancers/designers/arts/fashion-designer/seamstress-seamster"
+  },
+  {
+    "Old": "/freelance/designers/arts/fashion-designer/lookbook",
+    "New": "/hire-freelancers/designers/arts/fashion-designer/lookbook"
+  },
+  {
+    "Old": "/freelance/designers/arts/fashion-designer/constumer",
+    "New": "/hire-freelancers/designers/arts/fashion-designer/constumer"
+  },
+  {
+    "Old": "/freelance/designers/arts/infographics-designer",
+    "New": "/hire-freelancers/designers/arts/infographics-designer"
+  },
+  {
+    "Old": "/freelance/designers/arts/cartoons-comics",
+    "New": "/hire-freelancers/designers/arts/cartoons-comics"
+  },
+  {
+    "Old": "/freelance/designers/arts/cartoons-comics/cartoonist",
+    "New": "/hire-freelancers/designers/arts/cartoons-comics/cartoonist"
+  },
+  {
+    "Old": "/freelance/designers/arts/cartoons-comics/character-design",
+    "New": "/hire-freelancers/designers/arts/cartoons-comics/character-design"
+  },
+  {
+    "Old": "/freelance/designers/arts/cartoons-comics/caricaturist",
+    "New": "/hire-freelancers/designers/arts/cartoons-comics/caricaturist"
+  },
+  {
+    "Old": "/freelance/designers/arts/cartoons-comics/comic-books",
+    "New": "/hire-freelancers/designers/arts/cartoons-comics/comic-books"
+  },
+  {
+    "Old": "/freelance/designers/arts/fonts-typography",
+    "New": "/hire-freelancers/designers/arts/fonts-typography"
+  },
+  {
+    "Old": "/freelance/designers/arts/fonts-typography/font-designers",
+    "New": "/hire-freelancers/designers/arts/fonts-typography/font-designers"
+  },
+  {
+    "Old": "/freelance/designers/arts/fonts-typography/lettering-designer",
+    "New": "/hire-freelancers/designers/arts/fonts-typography/lettering-designer"
+  },
+  {
+    "Old": "/freelance/designers/arts/fonts-typography/typeface",
+    "New": "/hire-freelancers/designers/arts/fonts-typography/typeface"
+  },
+  {
+    "Old": "/freelance/designers/arts/fonts-typography/typographer",
+    "New": "/hire-freelancers/designers/arts/fonts-typography/typographer"
+  },
+  {
+    "Old": "/freelance/designers/arts/painter",
+    "New": "/hire-freelancers/designers/arts/painter"
+  },
+  {
+    "Old": "/freelance/designers/website-app",
+    "New": "/hire-freelancers/designers/website-app"
+  },
+  {
+    "Old": "/freelance/designers/website-app/web-designer",
+    "New": "/hire-freelancers/designers/website-app/web-designer"
+  },
+  {
+    "Old": "/freelance/designers/website-app/web-designer/wordpress",
+    "New": "/hire-freelancers/designers/website-app/web-designer/wordpress"
+  },
+  {
+    "Old": "/freelance/designers/website-app/web-designer/responsive-design",
+    "New": "/hire-freelancers/designers/website-app/web-designer/responsive-design"
+  },
+  {
+    "Old": "/freelance/designers/website-app/web-designer/ecommerce",
+    "New": "/hire-freelancers/designers/website-app/web-designer/ecommerce"
+  },
+  {
+    "Old": "/freelance/designers/website-app/web-designer/flash-website",
+    "New": "/hire-freelancers/designers/website-app/web-designer/flash-website"
+  },
+  {
+    "Old": "/freelance/designers/website-app/web-designer/joomla",
+    "New": "/hire-freelancers/designers/website-app/web-designer/joomla"
+  },
+  {
+    "Old": "/freelance/designers/website-app/web-designer/blog",
+    "New": "/hire-freelancers/designers/website-app/web-designer/blog"
+  },
+  {
+    "Old": "/freelance/designers/website-app/web-designer/magento",
+    "New": "/hire-freelancers/designers/website-app/web-designer/magento"
+  },
+  {
+    "Old": "/freelance/designers/website-app/web-designer/buttons-icons",
+    "New": "/hire-freelancers/designers/website-app/web-designer/buttons-icons"
+  },
+  {
+    "Old": "/freelance/designers/website-app/social-media-designer",
+    "New": "/hire-freelancers/designers/website-app/social-media-designer"
+  },
+  {
+    "Old": "/freelance/designers/website-app/social-media-designer/facebook-design",
+    "New": "/hire-freelancers/designers/website-app/social-media-designer/facebook-design"
+  },
+  {
+    "Old": "/freelance/designers/website-app/social-media-designer/facebook-cover",
+    "New": "/hire-freelancers/designers/website-app/social-media-designer/facebook-cover"
+  },
+  {
+    "Old": "/freelance/designers/website-app/social-media-designer/facebook-page",
+    "New": "/hire-freelancers/designers/website-app/social-media-designer/facebook-page"
+  },
+  {
+    "Old": "/freelance/designers/website-app/social-media-designer/facebook-timeline",
+    "New": "/hire-freelancers/designers/website-app/social-media-designer/facebook-timeline"
+  },
+  {
+    "Old": "/freelance/designers/website-app/social-media-designer/facebook-app",
+    "New": "/hire-freelancers/designers/website-app/social-media-designer/facebook-app"
+  },
+  {
+    "Old": "/freelance/designers/website-app/social-media-designer/twitter",
+    "New": "/hire-freelancers/designers/website-app/social-media-designer/twitter"
+  },
+  {
+    "Old": "/freelance/designers/website-app/social-media-designer/linkedin",
+    "New": "/hire-freelancers/designers/website-app/social-media-designer/linkedin"
+  },
+  {
+    "Old": "/freelance/designers/website-app/social-media-designer/google-plus",
+    "New": "/hire-freelancers/designers/website-app/social-media-designer/google-plus"
+  },
+  {
+    "Old": "/freelance/designers/website-app/website-banner",
+    "New": "/hire-freelancers/designers/website-app/website-banner"
+  },
+  {
+    "Old": "/freelance/designers/website-app/website-banner/flash-banner",
+    "New": "/hire-freelancers/designers/website-app/website-banner/flash-banner"
+  },
+  {
+    "Old": "/freelance/designers/website-app/website-banner/animated-banner",
+    "New": "/hire-freelancers/designers/website-app/website-banner/animated-banner"
+  },
+  {
+    "Old": "/freelance/designers/website-app/website-banner/3d-banner",
+    "New": "/hire-freelancers/designers/website-app/website-banner/3d-banner"
+  },
+  {
+    "Old": "/freelance/designers/website-app/newsletter-designer",
+    "New": "/hire-freelancers/designers/website-app/newsletter-designer"
+  },
+  {
+    "Old": "/freelance/designers/website-app/landing-page-designer",
+    "New": "/hire-freelancers/designers/website-app/landing-page-designer"
+  },
+  {
+    "Old": "/freelance/designers/website-app/mobile-website-designer",
+    "New": "/hire-freelancers/designers/website-app/mobile-website-designer"
+  },
+  {
+    "Old": "/freelance/designers/website-app/app-designer",
+    "New": "/hire-freelancers/designers/website-app/app-designer"
+  },
+  {
+    "Old": "/freelance/designers/website-app/app-designer/iOS-app",
+    "New": "/hire-freelancers/designers/website-app/app-designer/iOS-app"
+  },
+  {
+    "Old": "/freelance/designers/website-app/app-designer/android-app",
+    "New": "/hire-freelancers/designers/website-app/app-designer/android-app"
+  },
+  {
+    "Old": "/freelance/designers/website-app/ui-ux-designer",
+    "New": "/hire-freelancers/designers/website-app/ui-ux-designer"
+  },
+  {
+    "Old": "/freelance/designers/website-app/ui-ux-designer/website-usability-tester",
+    "New": "/hire-freelancers/designers/website-app/ui-ux-designer/website-usability-tester"
+  },
+  {
+    "Old": "/freelance/designers/website-app/ui-ux-designer/ux-tester",
+    "New": "/hire-freelancers/designers/website-app/ui-ux-designer/ux-tester"
+  },
+  {
+    "Old": "/freelance/designers/website-app/ui-ux-designer/wireframes",
+    "New": "/hire-freelancers/designers/website-app/ui-ux-designer/wireframes"
+  },
+  {
+    "Old": "/freelance/designers/website-app/ui-ux-designer/prototype",
+    "New": "/hire-freelancers/designers/website-app/ui-ux-designer/prototype"
+  },
+  {
+    "Old": "/freelance/designers/website-app/ui-ux-designer/a-b-tester",
+    "New": "/hire-freelancers/designers/website-app/ui-ux-designer/a-b-tester"
+  },
+  {
+    "Old": "/freelance/designers/business-advertising",
+    "New": "/hire-freelancers/designers/business-advertising"
+  },
+  {
+    "Old": "/freelance/designers/business-advertising/flyer-designer",
+    "New": "/hire-freelancers/designers/business-advertising/flyer-designer"
+  },
+  {
+    "Old": "/freelance/designers/business-advertising/infographics",
+    "New": "/hire-freelancers/designers/business-advertising/infographics"
+  },
+  {
+    "Old": "/freelance/designers/business-advertising/poster-designer",
+    "New": "/hire-freelancers/designers/business-advertising/poster-designer"
+  },
+  {
+    "Old": "/freelance/designers/business-advertising/newsletter-templates",
+    "New": "/hire-freelancers/designers/business-advertising/newsletter-templates"
+  },
+  {
+    "Old": "/freelance/designers/business-advertising/banners",
+    "New": "/hire-freelancers/designers/business-advertising/banners"
+  },
+  {
+    "Old": "/freelance/designers/business-advertising/banners/animated",
+    "New": "/hire-freelancers/designers/business-advertising/banners/animated"
+  },
+  {
+    "Old": "/freelance/designers/business-advertising/banners/3d-banner-advertising",
+    "New": "/hire-freelancers/designers/business-advertising/banners/3d-banner-advertising"
+  },
+  {
+    "Old": "/freelance/designers/business-advertising/flash-developer",
+    "New": "/hire-freelancers/designers/business-advertising/flash-developer"
+  },
+  {
+    "Old": "/freelance/designers/business-advertising/brochure-designer",
+    "New": "/hire-freelancers/designers/business-advertising/brochure-designer"
+  },
+  {
+    "Old": "/freelance/designers/business-advertising/leaflet-designer",
+    "New": "/hire-freelancers/designers/business-advertising/leaflet-designer"
+  },
+  {
+    "Old": "/freelance/designers/business-advertising/presentation-designer",
+    "New": "/hire-freelancers/designers/business-advertising/presentation-designer"
+  },
+  {
+    "Old": "/freelance/designers/business-advertising/presentation-designer/powerpoint",
+    "New": "/hire-freelancers/designers/business-advertising/presentation-designer/powerpoint"
+  },
+  {
+    "Old": "/freelance/designers/business-advertising/presentation-designer/prezi",
+    "New": "/hire-freelancers/designers/business-advertising/presentation-designer/prezi"
+  },
+  {
+    "Old": "/freelance/designers/business-advertising/presentation-designer/animated-presentation",
+    "New": "/hire-freelancers/designers/business-advertising/presentation-designer/animated-presentation"
+  },
+  {
+    "Old": "/freelance/designers/print-publishing",
+    "New": "/hire-freelancers/designers/print-publishing"
+  },
+  {
+    "Old": "/freelance/designers/print-publishing/magazine",
+    "New": "/hire-freelancers/designers/print-publishing/magazine"
+  },
+  {
+    "Old": "/freelance/designers/print-publishing/catalogue",
+    "New": "/hire-freelancers/designers/print-publishing/catalogue"
+  },
+  {
+    "Old": "/freelance/designers/print-publishing/book-cover",
+    "New": "/hire-freelancers/designers/print-publishing/book-cover"
+  },
+  {
+    "Old": "/freelance/designers/print-publishing/album",
+    "New": "/hire-freelancers/designers/print-publishing/album"
+  },
+  {
+    "Old": "/freelance/designers/print-publishing/book-designer",
+    "New": "/hire-freelancers/designers/print-publishing/book-designer"
+  },
+  {
+    "Old": "/freelance/designers/print-publishing/ebook",
+    "New": "/hire-freelancers/designers/print-publishing/ebook"
+  },
+  {
+    "Old": "/freelance/designers/print-publishing/booklet",
+    "New": "/hire-freelancers/designers/print-publishing/booklet"
+  },
+  {
+    "Old": "/freelance/designers/animator",
+    "New": "/hire-freelancers/designers/animator"
+  },
+  {
+    "Old": "/freelance/designers/animator/whiteboard-animation",
+    "New": "/hire-freelancers/designers/animator/whiteboard-animation"
+  },
+  {
+    "Old": "/freelance/designers/animator/3d-animation",
+    "New": "/hire-freelancers/designers/animator/3d-animation"
+  },
+  {
+    "Old": "/freelance/designers/animator/2d-animation",
+    "New": "/hire-freelancers/designers/animator/2d-animation"
+  },
+  {
+    "Old": "/freelance/designers/animator/storyboard",
+    "New": "/hire-freelancers/designers/animator/storyboard"
+  },
+  {
+    "Old": "/freelance/designers/animator/storyline",
+    "New": "/hire-freelancers/designers/animator/storyline"
+  },
+  {
+    "Old": "/freelance/designers/label-merchandising",
+    "New": "/hire-freelancers/designers/label-merchandising"
+  },
+  {
+    "Old": "/freelance/designers/label-merchandising/folder",
+    "New": "/hire-freelancers/designers/label-merchandising/folder"
+  },
+  {
+    "Old": "/freelance/designers/label-merchandising/label",
+    "New": "/hire-freelancers/designers/label-merchandising/label"
+  },
+  {
+    "Old": "/freelance/designers/label-merchandising/package",
+    "New": "/hire-freelancers/designers/label-merchandising/package"
+  },
+  {
+    "Old": "/freelance/designers/label-merchandising/sign",
+    "New": "/hire-freelancers/designers/label-merchandising/sign"
+  },
+  {
+    "Old": "/freelance/designers/label-merchandising/stamp",
+    "New": "/hire-freelancers/designers/label-merchandising/stamp"
+  },
+  {
+    "Old": "/freelance/designers/label-merchandising/sticker",
+    "New": "/hire-freelancers/designers/label-merchandising/sticker"
+  },
+  {
+    "Old": "/freelance/designers/label-merchandising/tshirt-designers",
+    "New": "/hire-freelancers/designers/label-merchandising/tshirt-designers"
+  },
+  {
+    "Old": "/freelance/writing-translation",
+    "New": "/hire-freelancers/writing-translation"
+  },
+  {
+    "Old": "/freelance/writing-translation/website-writer",
+    "New": "/hire-freelancers/writing-translation/website-writer"
+  },
+  {
+    "Old": "/freelance/writing-translation/website-writer/blog-writer",
+    "New": "/hire-freelancers/writing-translation/website-writer/blog-writer"
+  },
+  {
+    "Old": "/freelance/writing-translation/website-writer/social-media-writer",
+    "New": "/hire-freelancers/writing-translation/website-writer/social-media-writer"
+  },
+  {
+    "Old": "/freelance/writing-translation/website-writer/newsletter-writer",
+    "New": "/hire-freelancers/writing-translation/website-writer/newsletter-writer"
+  },
+  {
+    "Old": "/freelance/writing-translation/website-writer/ebook-writer",
+    "New": "/hire-freelancers/writing-translation/website-writer/ebook-writer"
+  },
+  {
+    "Old": "/freelance/writing-translation/website-writer/editor",
+    "New": "/hire-freelancers/writing-translation/website-writer/editor"
+  },
+  {
+    "Old": "/freelance/writing-translation/website-writer/forum-post",
+    "New": "/hire-freelancers/writing-translation/website-writer/forum-post"
+  },
+  {
+    "Old": "/freelance/writing-translation/website-writer/landing-page-writer",
+    "New": "/hire-freelancers/writing-translation/website-writer/landing-page-writer"
+  },
+  {
+    "Old": "/freelance/writing-translation/website-writer/about-me",
+    "New": "/hire-freelancers/writing-translation/website-writer/about-me"
+  },
+  {
+    "Old": "/freelance/writing-translation/translators",
+    "New": "/hire-freelancers/writing-translation/translators"
+  },
+  {
+    "Old": "/freelance/writing-translation/translators/french",
+    "New": "/hire-freelancers/writing-translation/translators/french"
+  },
+  {
+    "Old": "/freelance/writing-translation/translators/spanish",
+    "New": "/hire-freelancers/writing-translation/translators/spanish"
+  },
+  {
+    "Old": "/freelance/writing-translation/translators/german",
+    "New": "/hire-freelancers/writing-translation/translators/german"
+  },
+  {
+    "Old": "/freelance/writing-translation/translators/portuguese",
+    "New": "/hire-freelancers/writing-translation/translators/portuguese"
+  },
+  {
+    "Old": "/freelance/writing-translation/translators/chinese-mandarin",
+    "New": "/hire-freelancers/writing-translation/translators/chinese-mandarin"
+  },
+  {
+    "Old": "/freelance/writing-translation/translators/arabic",
+    "New": "/hire-freelancers/writing-translation/translators/arabic"
+  },
+  {
+    "Old": "/freelance/writing-translation/translators/italian",
+    "New": "/hire-freelancers/writing-translation/translators/italian"
+  },
+  {
+    "Old": "/freelance/writing-translation/translators/russian",
+    "New": "/hire-freelancers/writing-translation/translators/russian"
+  },
+  {
+    "Old": "/freelance/writing-translation/content-writer",
+    "New": "/hire-freelancers/writing-translation/content-writer"
+  },
+  {
+    "Old": "/freelance/writing-translation/copywriter-proofreader",
+    "New": "/hire-freelancers/writing-translation/copywriter-proofreader"
+  },
+  {
+    "Old": "/freelance/writing-translation/creative-writer",
+    "New": "/hire-freelancers/writing-translation/creative-writer"
+  },
+  {
+    "Old": "/freelance/writing-translation/creative-writer/story",
+    "New": "/hire-freelancers/writing-translation/creative-writer/story"
+  },
+  {
+    "Old": "/freelance/writing-translation/creative-writer/script",
+    "New": "/hire-freelancers/writing-translation/creative-writer/script"
+  },
+  {
+    "Old": "/freelance/writing-translation/creative-writer/book",
+    "New": "/hire-freelancers/writing-translation/creative-writer/book"
+  },
+  {
+    "Old": "/freelance/writing-translation/creative-writer/novel",
+    "New": "/hire-freelancers/writing-translation/creative-writer/novel"
+  },
+  {
+    "Old": "/freelance/writing-translation/creative-writer/speech",
+    "New": "/hire-freelancers/writing-translation/creative-writer/speech"
+  },
+  {
+    "Old": "/freelance/writing-translation/creative-writer/fiction",
+    "New": "/hire-freelancers/writing-translation/creative-writer/fiction"
+  },
+  {
+    "Old": "/freelance/writing-translation/creative-writer/ghostwriter",
+    "New": "/hire-freelancers/writing-translation/creative-writer/ghostwriter"
+  },
+  {
+    "Old": "/freelance/writing-translation/creative-writer/childrens-writer",
+    "New": "/hire-freelancers/writing-translation/creative-writer/childrens-writer"
+  },
+  {
+    "Old": "/freelance/writing-translation/business",
+    "New": "/hire-freelancers/writing-translation/business"
+  },
+  {
+    "Old": "/freelance/writing-translation/business/press-release-writers",
+    "New": "/hire-freelancers/writing-translation/business/press-release-writers"
+  },
+  {
+    "Old": "/freelance/writing-translation/business/product-description-writers",
+    "New": "/hire-freelancers/writing-translation/business/product-description-writers"
+  },
+  {
+    "Old": "/freelance/writing-translation/business/grant-proposals-writers",
+    "New": "/hire-freelancers/writing-translation/business/grant-proposals-writers"
+  },
+  {
+    "Old": "/freelance/writing-translation/business/sales-letter",
+    "New": "/hire-freelancers/writing-translation/business/sales-letter"
+  },
+  {
+    "Old": "/freelance/writing-translation/business/brochure-writer",
+    "New": "/hire-freelancers/writing-translation/business/brochure-writer"
+  },
+  {
+    "Old": "/freelance/writing-translation/business/advertiorial",
+    "New": "/hire-freelancers/writing-translation/business/advertiorial"
+  },
+  {
+    "Old": "/freelance/writing-translation/business/letter",
+    "New": "/hire-freelancers/writing-translation/business/letter"
+  },
+  {
+    "Old": "/freelance/writing-translation/business/training-manual-writer",
+    "New": "/hire-freelancers/writing-translation/business/training-manual-writer"
+  },
+  {
+    "Old": "/freelance/writing-translation/technical-writer",
+    "New": "/hire-freelancers/writing-translation/technical-writer"
+  },
+  {
+    "Old": "/freelance/writing-translation/technical-writer/music",
+    "New": "/hire-freelancers/writing-translation/technical-writer/music"
+  },
+  {
+    "Old": "/freelance/writing-translation/technical-writer/travel",
+    "New": "/hire-freelancers/writing-translation/technical-writer/travel"
+  },
+  {
+    "Old": "/freelance/writing-translation/technical-writer/fitness-health-food",
+    "New": "/hire-freelancers/writing-translation/technical-writer/fitness-health-food"
+  },
+  {
+    "Old": "/freelance/writing-translation/technical-writer/fashion-lifestyle",
+    "New": "/hire-freelancers/writing-translation/technical-writer/fashion-lifestyle"
+  },
+  {
+    "Old": "/freelance/writing-translation/technical-writer/beauty",
+    "New": "/hire-freelancers/writing-translation/technical-writer/beauty"
+  },
+  {
+    "Old": "/freelance/writing-translation/technical-writer/finance",
+    "New": "/hire-freelancers/writing-translation/technical-writer/finance"
+  },
+  {
+    "Old": "/freelance/writing-translation/technical-writer/technology",
+    "New": "/hire-freelancers/writing-translation/technical-writer/technology"
+  },
+  {
+    "Old": "/freelance/writing-translation/technical-writer/legal",
+    "New": "/hire-freelancers/writing-translation/technical-writer/legal"
+  },
+  {
+    "Old": "/freelance/writing-translation/technical-writer/legal/terms-and-conditions",
+    "New": "/hire-freelancers/writing-translation/technical-writer/legal/terms-and-conditions"
+  },
+  {
+    "Old": "/freelance/writing-translation/technical-writer/legal/solicitor",
+    "New": "/hire-freelancers/writing-translation/technical-writer/legal/solicitor"
+  },
+  {
+    "Old": "/freelance/writing-translation/technical-writer/legal/nda-form",
+    "New": "/hire-freelancers/writing-translation/technical-writer/legal/nda-form"
+  },
+  {
+    "Old": "/freelance/writing-translation/technical-writer/legal/intellectual-property",
+    "New": "/hire-freelancers/writing-translation/technical-writer/legal/intellectual-property"
+  },
+  {
+    "Old": "/freelance/writing-translation/technical-writer/legal/barrister",
+    "New": "/hire-freelancers/writing-translation/technical-writer/legal/barrister"
+  },
+  {
+    "Old": "/freelance/writing-translation/cv-advisors",
+    "New": "/hire-freelancers/writing-translation/cv-advisors"
+  },
+  {
+    "Old": "/freelance/writing-translation/cv-advisors/cv-writers",
+    "New": "/hire-freelancers/writing-translation/cv-advisors/cv-writers"
+  },
+  {
+    "Old": "/freelance/writing-translation/cv-advisors/cover-letter-writers",
+    "New": "/hire-freelancers/writing-translation/cv-advisors/cover-letter-writers"
+  },
+  {
+    "Old": "/freelance/writing-translation/cv-advisors/personal-statement-writers",
+    "New": "/hire-freelancers/writing-translation/cv-advisors/personal-statement-writers"
+  },
+  {
+    "Old": "/freelance/writing-translation/cv-advisors/profile",
+    "New": "/hire-freelancers/writing-translation/cv-advisors/profile"
+  },
+  {
+    "Old": "/freelance/multimedia",
+    "New": "/hire-freelancers/multimedia"
+  },
+  {
+    "Old": "/freelance/multimedia/voice-over-artists",
+    "New": "/hire-freelancers/multimedia/voice-over-artists"
+  },
+  {
+    "Old": "/freelance/multimedia/video",
+    "New": "/hire-freelancers/multimedia/video"
+  },
+  {
+    "Old": "/freelance/multimedia/video/marketing-video",
+    "New": "/hire-freelancers/multimedia/video/marketing-video"
+  },
+  {
+    "Old": "/freelance/multimedia/video/video-animation",
+    "New": "/hire-freelancers/multimedia/video/video-animation"
+  },
+  {
+    "Old": "/freelance/multimedia/video/video-editor",
+    "New": "/hire-freelancers/multimedia/video/video-editor"
+  },
+  {
+    "Old": "/freelance/multimedia/video/video-producer",
+    "New": "/hire-freelancers/multimedia/video/video-producer"
+  },
+  {
+    "Old": "/freelance/multimedia/video/typography-video",
+    "New": "/hire-freelancers/multimedia/video/typography-video"
+  },
+  {
+    "Old": "/freelance/multimedia/video/video-conversion",
+    "New": "/hire-freelancers/multimedia/video/video-conversion"
+  },
+  {
+    "Old": "/freelance/multimedia/video/videoscribe",
+    "New": "/hire-freelancers/multimedia/video/videoscribe"
+  },
+  {
+    "Old": "/freelance/multimedia/video/videographer",
+    "New": "/hire-freelancers/multimedia/video/videographer"
+  },
+  {
+    "Old": "/freelance/multimedia/photography",
+    "New": "/hire-freelancers/multimedia/photography"
+  },
+  {
+    "Old": "/freelance/multimedia/photography/photographer",
+    "New": "/hire-freelancers/multimedia/photography/photographer"
+  },
+  {
+    "Old": "/freelance/multimedia/photography/wedding-photographer",
+    "New": "/hire-freelancers/multimedia/photography/wedding-photographer"
+  },
+  {
+    "Old": "/freelance/multimedia/photography/product-photographer",
+    "New": "/hire-freelancers/multimedia/photography/product-photographer"
+  },
+  {
+    "Old": "/freelance/multimedia/photography/headshot-photographer",
+    "New": "/hire-freelancers/multimedia/photography/headshot-photographer"
+  },
+  {
+    "Old": "/freelance/multimedia/photography/fashion-photographer",
+    "New": "/hire-freelancers/multimedia/photography/fashion-photographer"
+  },
+  {
+    "Old": "/freelance/multimedia/photography/photo-restorer",
+    "New": "/hire-freelancers/multimedia/photography/photo-restorer"
+  },
+  {
+    "Old": "/freelance/multimedia/photography/property-photographer",
+    "New": "/hire-freelancers/multimedia/photography/property-photographer"
+  },
+  {
+    "Old": "/freelance/multimedia/audio",
+    "New": "/hire-freelancers/multimedia/audio"
+  },
+  {
+    "Old": "/freelance/multimedia/audio/audio-editor",
+    "New": "/hire-freelancers/multimedia/audio/audio-editor"
+  },
+  {
+    "Old": "/freelance/multimedia/audio/music-producer",
+    "New": "/hire-freelancers/multimedia/audio/music-producer"
+  },
+  {
+    "Old": "/freelance/multimedia/audio/sound-recordist",
+    "New": "/hire-freelancers/multimedia/audio/sound-recordist"
+  },
+  {
+    "Old": "/freelance/multimedia/audio/mixing-engineer",
+    "New": "/hire-freelancers/multimedia/audio/mixing-engineer"
+  },
+  {
+    "Old": "/freelance/multimedia/audio/dj",
+    "New": "/hire-freelancers/multimedia/audio/dj"
+  },
+  {
+    "Old": "/freelance/multimedia/image-editor",
+    "New": "/hire-freelancers/multimedia/image-editor"
+  },
+  {
+    "Old": "/freelance/multimedia/image-editor/photo-retouching",
+    "New": "/hire-freelancers/multimedia/image-editor/photo-retouching"
+  },
+  {
+    "Old": "/freelance/multimedia/image-editor/image-conversion",
+    "New": "/hire-freelancers/multimedia/image-editor/image-conversion"
+  },
+  {
+    "Old": "/freelance/multimedia/image-editor/photo-manipulation",
+    "New": "/hire-freelancers/multimedia/image-editor/photo-manipulation"
+  },
+  {
+    "Old": "/freelance/multimedia/image-editor/image-resizing",
+    "New": "/hire-freelancers/multimedia/image-editor/image-resizing"
+  },
+  {
+    "Old": "/freelance/multimedia/image-editor/photo-effects",
+    "New": "/hire-freelancers/multimedia/image-editor/photo-effects"
+  },
+  {
+    "Old": "/freelance/multimedia/image-editor/photo-colour-correction",
+    "New": "/hire-freelancers/multimedia/image-editor/photo-colour-correction"
+  },
+  {
+    "Old": "/freelance/multimedia/film-maker",
+    "New": "/hire-freelancers/multimedia/film-maker"
+  },
+  {
+    "Old": "/freelance/multimedia/film-maker/documentary",
+    "New": "/hire-freelancers/multimedia/film-maker/documentary"
+  },
+  {
+    "Old": "/freelance/multimedia/film-maker/film-editor",
+    "New": "/hire-freelancers/multimedia/film-maker/film-editor"
+  },
+  {
+    "Old": "/freelance/multimedia/film-maker/film-dubbing",
+    "New": "/hire-freelancers/multimedia/film-maker/film-dubbing"
+  },
+  {
+    "Old": "/freelance/multimedia/musician",
+    "New": "/hire-freelancers/multimedia/musician"
+  },
+  {
+    "Old": "/freelance/multimedia/musician/podcast",
+    "New": "/hire-freelancers/multimedia/musician/podcast"
+  },
+  {
+    "Old": "/freelance/multimedia/musician/composer",
+    "New": "/hire-freelancers/multimedia/musician/composer"
+  },
+  {
+    "Old": "/freelance/multimedia/musician/djs",
+    "New": "/hire-freelancers/multimedia/musician/djs"
+  },
+  {
+    "Old": "/freelance/multimedia/musician/songwriter",
+    "New": "/hire-freelancers/multimedia/musician/songwriter"
+  },
+  {
+    "Old": "/freelance/multimedia/musician/music-production",
+    "New": "/hire-freelancers/multimedia/musician/music-production"
+  },
+  {
+    "Old": "/freelance/multimedia/musician/singers",
+    "New": "/hire-freelancers/multimedia/musician/singers"
+  },
+  {
+    "Old": "/freelance/business-support",
+    "New": "/hire-freelancers/business-support"
+  },
+  {
+    "Old": "/freelance/business-support/editorial-admin",
+    "New": "/hire-freelancers/business-support/editorial-admin"
+  },
+  {
+    "Old": "/freelance/business-support/editorial-admin/editing-services",
+    "New": "/hire-freelancers/business-support/editorial-admin/editing-services"
+  },
+  {
+    "Old": "/freelance/business-support/editorial-admin/business-proofreading",
+    "New": "/hire-freelancers/business-support/editorial-admin/business-proofreading"
+  },
+  {
+    "Old": "/freelance/business-support/editorial-admin/typist",
+    "New": "/hire-freelancers/business-support/editorial-admin/typist"
+  },
+  {
+    "Old": "/freelance/business-support/editorial-admin/transcriptionists",
+    "New": "/hire-freelancers/business-support/editorial-admin/transcriptionists"
+  },
+  {
+    "Old": "/freelance/business-support/editorial-admin/data-entry-specialists",
+    "New": "/hire-freelancers/business-support/editorial-admin/data-entry-specialists"
+  },
+  {
+    "Old": "/freelance/business-support/editorial-admin/ms-word",
+    "New": "/hire-freelancers/business-support/editorial-admin/ms-word"
+  },
+  {
+    "Old": "/freelance/business-support/editorial-admin/word-processing",
+    "New": "/hire-freelancers/business-support/editorial-admin/word-processing"
+  },
+  {
+    "Old": "/freelance/business-support/business-services",
+    "New": "/hire-freelancers/business-support/business-services"
+  },
+  {
+    "Old": "/freelance/business-support/business-services/lawyer",
+    "New": "/hire-freelancers/business-support/business-services/lawyer"
+  },
+  {
+    "Old": "/freelance/business-support/business-services/financial",
+    "New": "/hire-freelancers/business-support/business-services/financial"
+  },
+  {
+    "Old": "/freelance/business-support/business-services/financial/budgeting",
+    "New": "/hire-freelancers/business-support/business-services/financial/budgeting"
+  },
+  {
+    "Old": "/freelance/business-support/business-services/financial/debt-collectors",
+    "New": "/hire-freelancers/business-support/business-services/financial/debt-collectors"
+  },
+  {
+    "Old": "/freelance/business-support/business-services/financial/financial-analysts",
+    "New": "/hire-freelancers/business-support/business-services/financial/financial-analysts"
+  },
+  {
+    "Old": "/freelance/business-support/business-services/financial/risk-management-consultants",
+    "New": "/hire-freelancers/business-support/business-services/financial/risk-management-consultants"
+  },
+  {
+    "Old": "/freelance/business-support/business-services/financial/credit-controller",
+    "New": "/hire-freelancers/business-support/business-services/financial/credit-controller"
+  },
+  {
+    "Old": "/freelance/business-support/business-services/financial/financial-modelling-analyst",
+    "New": "/hire-freelancers/business-support/business-services/financial/financial-modelling-analyst"
+  },
+  {
+    "Old": "/freelance/business-support/business-services/financial/financial-planning-advisor",
+    "New": "/hire-freelancers/business-support/business-services/financial/financial-planning-advisor"
+  },
+  {
+    "Old": "/freelance/business-support/business-services/hr-consultants",
+    "New": "/hire-freelancers/business-support/business-services/hr-consultants"
+  },
+  {
+    "Old": "/freelance/business-support/business-services/it-consultant",
+    "New": "/hire-freelancers/business-support/business-services/it-consultant"
+  },
+  {
+    "Old": "/freelance/business-support/business-services/payroll-managers-processors",
+    "New": "/hire-freelancers/business-support/business-services/payroll-managers-processors"
+  },
+  {
+    "Old": "/freelance/business-support/business-services/customer-service-rep",
+    "New": "/hire-freelancers/business-support/business-services/customer-service-rep"
+  },
+  {
+    "Old": "/freelance/business-support/business-services/auditors",
+    "New": "/hire-freelancers/business-support/business-services/auditors"
+  },
+  {
+    "Old": "/freelance/business-support/business-services/office-manager",
+    "New": "/hire-freelancers/business-support/business-services/office-manager"
+  },
+  {
+    "Old": "/freelance/business-support/excel-vba",
+    "New": "/hire-freelancers/business-support/excel-vba"
+  },
+  {
+    "Old": "/freelance/business-support/business-finances",
+    "New": "/hire-freelancers/business-support/business-finances"
+  },
+  {
+    "Old": "/freelance/business-support/business-finances/accountants",
+    "New": "/hire-freelancers/business-support/business-finances/accountants"
+  },
+  {
+    "Old": "/freelance/business-support/business-finances/bookkeepers",
+    "New": "/hire-freelancers/business-support/business-finances/bookkeepers"
+  },
+  {
+    "Old": "/freelance/business-support/business-finances/tax",
+    "New": "/hire-freelancers/business-support/business-finances/tax"
+  },
+  {
+    "Old": "/freelance/business-support/business-finances/tax/tax-return-accountant",
+    "New": "/hire-freelancers/business-support/business-finances/tax/tax-return-accountant"
+  },
+  {
+    "Old": "/freelance/business-support/business-finances/tax/corporate-tax-accountants",
+    "New": "/hire-freelancers/business-support/business-finances/tax/corporate-tax-accountants"
+  },
+  {
+    "Old": "/freelance/business-support/business-finances/tax/tax-advisor",
+    "New": "/hire-freelancers/business-support/business-finances/tax/tax-advisor"
+  },
+  {
+    "Old": "/freelance/business-support/business-finances/sage",
+    "New": "/hire-freelancers/business-support/business-finances/sage"
+  },
+  {
+    "Old": "/freelance/business-support/business-finances/quickbooks",
+    "New": "/hire-freelancers/business-support/business-finances/quickbooks"
+  },
+  {
+    "Old": "/freelance/business-support/admin-services",
+    "New": "/hire-freelancers/business-support/admin-services"
+  },
+  {
+    "Old": "/freelance/business-support/admin-services/virtual-assistants",
+    "New": "/hire-freelancers/business-support/admin-services/virtual-assistants"
+  },
+  {
+    "Old": "/freelance/business-support/admin-services/personal-assistants",
+    "New": "/hire-freelancers/business-support/admin-services/personal-assistants"
+  },
+  {
+    "Old": "/freelance/business-support/admin-services/administrative-assistants",
+    "New": "/hire-freelancers/business-support/admin-services/administrative-assistants"
+  },
+  {
+    "Old": "/freelance/business-support/presentation-support",
+    "New": "/hire-freelancers/business-support/presentation-support"
+  },
+  {
+    "Old": "/freelance/business-support/presentation-support/ms-powerpoint",
+    "New": "/hire-freelancers/business-support/presentation-support/ms-powerpoint"
+  },
+  {
+    "Old": "/freelance/business-support/presentation-support/prezi-powerpoint",
+    "New": "/hire-freelancers/business-support/presentation-support/prezi-powerpoint"
+  },
+  {
+    "Old": "/freelance/business-support/data-researcher",
+    "New": "/hire-freelancers/business-support/data-researcher"
+  },
+  {
+    "Old": "/freelance/business-support/other",
+    "New": "/hire-freelancers/business-support/other"
+  },
+  {
+    "Old": "/freelance/business-support/other/business-planner",
+    "New": "/hire-freelancers/business-support/other/business-planner"
+  },
+  {
+    "Old": "/freelance/business-support/other/business-setup",
+    "New": "/hire-freelancers/business-support/other/business-setup"
+  },
+  {
+    "Old": "/freelance/business-support/other/consulting",
+    "New": "/hire-freelancers/business-support/other/consulting"
+  },
+  {
+    "Old": "/freelance/business-support/other/consulting/business-consultants",
+    "New": "/hire-freelancers/business-support/other/consulting/business-consultants"
+  },
+  {
+    "Old": "/freelance/business-support/other/consulting/financial-consultants",
+    "New": "/hire-freelancers/business-support/other/consulting/financial-consultants"
+  },
+  {
+    "Old": "/freelance/business-support/other/consulting/hr-consultants",
+    "New": "/hire-freelancers/business-support/other/consulting/hr-consultants"
+  },
+  {
+    "Old": "/freelance/business-support/other/business-consultants/it-consultants",
+    "New": "/hire-freelancers/business-support/other/business-consultants/it-consultants"
+  },
+  {
+    "Old": "/freelance/business-support/other/business-analysts",
+    "New": "/hire-freelancers/business-support/other/business-analysts"
+  },
+  {
+    "Old": "/freelance/business-support/other/data-scraper",
+    "New": "/hire-freelancers/business-support/other/data-scraper"
+  },
+  {
+    "Old": "/freelance/business-support/other/business-software",
+    "New": "/hire-freelancers/business-support/other/business-software"
+  },
+  {
+    "Old": "/freelance/business-support/other/business-software/crm-consultants",
+    "New": "/hire-freelancers/business-support/other/business-software/crm-consultants"
+  },
+  {
+    "Old": "/freelance/business-support/other/business-software/erp-consultants",
+    "New": "/hire-freelancers/business-support/other/business-software/erp-consultants"
+  },
+  {
+    "Old": "/freelance/business-support/other/business-software/sap-consultants",
+    "New": "/hire-freelancers/business-support/other/business-software/sap-consultants"
+  },
+  {
+    "Old": "/freelance/business-support/other/business-software/salesforce-consultants-developers",
+    "New": "/hire-freelancers/business-support/other/business-software/salesforce-consultants-developers"
+  },
+  {
+    "Old": "/freelance/business-support/other/business-software/zoho-consultants",
+    "New": "/hire-freelancers/business-support/other/business-software/zoho-consultants"
+  },
+  {
+    "Old": "/freelance/business-support/other/business-software/peoplesoft-consultants",
+    "New": "/hire-freelancers/business-support/other/business-software/peoplesoft-consultants"
+  },
+  {
+    "Old": "/freelance/business-support/other/project-managers",
+    "New": "/hire-freelancers/business-support/other/project-managers"
+  },
+  {
+    "Old": "/freelance/business-support/other/business-software/statisticians",
+    "New": "/hire-freelancers/business-support/other/business-software/statisticians"
+  },
+  {
+    "Old": "/freelance/social-media",
+    "New": "/hire-freelancers/social-media"
+  },
+  {
+    "Old": "/freelance/social-media/facebook-marketer",
+    "New": "/hire-freelancers/social-media/facebook-marketer"
+  },
+  {
+    "Old": "/freelance/social-media/facebook-marketer/facebook-fans",
+    "New": "/hire-freelancers/social-media/facebook-marketer/facebook-fans"
+  },
+  {
+    "Old": "/freelance/social-media/facebook-marketer/facebook-posts",
+    "New": "/hire-freelancers/social-media/facebook-marketer/facebook-posts"
+  },
+  {
+    "Old": "/freelance/social-media/twitter-marketers",
+    "New": "/hire-freelancers/social-media/twitter-marketers"
+  },
+  {
+    "Old": "/freelance/social-media/twitter-marketers/twitter-followers",
+    "New": "/hire-freelancers/social-media/twitter-marketers/twitter-followers"
+  },
+  {
+    "Old": "/freelance/social-media/twitter-marketers/twitter-managers",
+    "New": "/hire-freelancers/social-media/twitter-marketers/twitter-managers"
+  },
+  {
+    "Old": "/freelance/social-media/youtube-marketers",
+    "New": "/hire-freelancers/social-media/youtube-marketers"
+  },
+  {
+    "Old": "/freelance/social-media/youtube-marketers/youtube-views",
+    "New": "/hire-freelancers/social-media/youtube-marketers/youtube-views"
+  },
+  {
+    "Old": "/freelance/social-media/youtube-marketers/youtube-likes",
+    "New": "/hire-freelancers/social-media/youtube-marketers/youtube-likes"
+  },
+  {
+    "Old": "/freelance/social-media/youtube-marketers/youtube-subscribers",
+    "New": "/hire-freelancers/social-media/youtube-marketers/youtube-subscribers"
+  },
+  {
+    "Old": "/freelance/social-media/social-bookmarking",
+    "New": "/hire-freelancers/social-media/social-bookmarking"
+  },
+  {
+    "Old": "/freelance/social-media/linkedin-marketers",
+    "New": "/hire-freelancers/social-media/linkedin-marketers"
+  },
+  {
+    "Old": "/freelance/social-media/instagram-marketers",
+    "New": "/hire-freelancers/social-media/instagram-marketers"
+  },
+  {
+    "Old": "/freelance/social-media/google-plus-marketing",
+    "New": "/hire-freelancers/social-media/google-plus-marketing"
+  },
+  {
+    "Old": "/freelance/social-media/forum-marketer",
+    "New": "/hire-freelancers/social-media/forum-marketer"
+  },
+  {
+    "Old": "/freelance/social-media/pinterest-marketers",
+    "New": "/hire-freelancers/social-media/pinterest-marketers"
+  },
+  {
+    "Old": "/freelance/sales-marketing",
+    "New": "/hire-freelancers/sales-marketing"
+  },
+  {
+    "Old": "/freelance/sales-marketing/seo-consultants",
+    "New": "/hire-freelancers/sales-marketing/seo-consultants"
+  },
+  {
+    "Old": "/freelance/sales-marketing/seo-consultants/backlinks",
+    "New": "/hire-freelancers/sales-marketing/seo-consultants/backlinks"
+  },
+  {
+    "Old": "/freelance/sales-marketing/seo-consultants/seo-content-writers",
+    "New": "/hire-freelancers/sales-marketing/seo-consultants/seo-content-writers"
+  },
+  {
+    "Old": "/freelance/sales-marketing/seo-consultants/keyword-research",
+    "New": "/hire-freelancers/sales-marketing/seo-consultants/keyword-research"
+  },
+  {
+    "Old": "/freelance/sales-marketing/seo-consultants/seo-analysis",
+    "New": "/hire-freelancers/sales-marketing/seo-consultants/seo-analysis"
+  },
+  {
+    "Old": "/freelance/sales-marketing/seo-consultants/google-ranking",
+    "New": "/hire-freelancers/sales-marketing/seo-consultants/google-ranking"
+  },
+  {
+    "Old": "/freelance/sales-marketing/seo-consultants/website-traffic",
+    "New": "/hire-freelancers/sales-marketing/seo-consultants/website-traffic"
+  },
+  {
+    "Old": "/freelance/sales-marketing/seo-consultants/organic-traffic",
+    "New": "/hire-freelancers/sales-marketing/seo-consultants/organic-traffic"
+  },
+  {
+    "Old": "/freelance/sales-marketing/email-marketers",
+    "New": "/hire-freelancers/sales-marketing/email-marketers"
+  },
+  {
+    "Old": "/freelance/sales-marketing/adwords-ppc-consultants",
+    "New": "/hire-freelancers/sales-marketing/adwords-ppc-consultants"
+  },
+  {
+    "Old": "/freelance/sales-marketing/sales-calls",
+    "New": "/hire-freelancers/sales-marketing/sales-calls"
+  },
+  {
+    "Old": "/freelance/sales-marketing/sales-calls/telesales-consultant",
+    "New": "/hire-freelancers/sales-marketing/sales-calls/telesales-consultant"
+  },
+  {
+    "Old": "/freelance/sales-marketing/sales-calls/telemarketer",
+    "New": "/hire-freelancers/sales-marketing/sales-calls/telemarketer"
+  },
+  {
+    "Old": "/freelance/sales-marketing/sales-calls/lead-generation-experts",
+    "New": "/hire-freelancers/sales-marketing/sales-calls/lead-generation-experts"
+  },
+  {
+    "Old": "/freelance/sales-marketing/sales-calls/cold-callers",
+    "New": "/hire-freelancers/sales-marketing/sales-calls/cold-callers"
+  },
+  {
+    "Old": "/freelance/sales-marketing/sales-calls/appointment-setting",
+    "New": "/hire-freelancers/sales-marketing/sales-calls/appointment-setting"
+  },
+  {
+    "Old": "/freelance/sales-marketing/sales-calls/call-marketing",
+    "New": "/hire-freelancers/sales-marketing/sales-calls/call-marketing"
+  },
+  {
+    "Old": "/freelance/sales-marketing/sales-calls/b2b-marketers",
+    "New": "/hire-freelancers/sales-marketing/sales-calls/b2b-marketers"
+  },
+  {
+    "Old": "/freelance/sales-marketing/data-lists",
+    "New": "/hire-freelancers/sales-marketing/data-lists"
+  },
+  {
+    "Old": "/freelance/sales-marketing/data-lists/marketing-database",
+    "New": "/hire-freelancers/sales-marketing/data-lists/marketing-database"
+  },
+  {
+    "Old": "/freelance/sales-marketing/data-lists/email-lists",
+    "New": "/hire-freelancers/sales-marketing/data-lists/email-lists"
+  },
+  {
+    "Old": "/freelance/sales-marketing/data-lists/media-database",
+    "New": "/hire-freelancers/sales-marketing/data-lists/media-database"
+  },
+  {
+    "Old": "/freelance/sales-marketing/data-lists/b2c-lists",
+    "New": "/hire-freelancers/sales-marketing/data-lists/b2c-lists"
+  },
+  {
+    "Old": "/freelance/sales-marketing/data-lists/b2b-databases",
+    "New": "/hire-freelancers/sales-marketing/data-lists/b2b-databases"
+  },
+  {
+    "Old": "/freelance/sales-marketing/data-lists",
+    "New": "/hire-freelancers/sales-marketing/data-lists"
+  },
+  {
+    "Old": "/freelance/sales-marketing/press-release-distributer",
+    "New": "/hire-freelancers/sales-marketing/press-release-distributer"
+  },
+  {
+    "Old": "/freelance/sales-marketing/strategy-research",
+    "New": "/hire-freelancers/sales-marketing/strategy-research"
+  },
+  {
+    "Old": "/freelance/sales-marketing/strategy-research/marketing-strategist",
+    "New": "/hire-freelancers/sales-marketing/strategy-research/marketing-strategist"
+  },
+  {
+    "Old": "/freelance/sales-marketing/strategy-research/internet-researchers",
+    "New": "/hire-freelancers/sales-marketing/strategy-research/internet-researchers"
+  },
+  {
+    "Old": "/freelance/sales-marketing/strategy-research/marketing-managers",
+    "New": "/hire-freelancers/sales-marketing/strategy-research/marketing-managers"
+  },
+  {
+    "Old": "/freelance/sales-marketing/strategy-research/business-strategists",
+    "New": "/hire-freelancers/sales-marketing/strategy-research/business-strategists"
+  },
+  {
+    "Old": "/freelance/sales-marketing/strategy-research/sales-strategist",
+    "New": "/hire-freelancers/sales-marketing/strategy-research/sales-strategist"
+  },
+  {
+    "Old": "/freelance/sales-marketing/strategy-research/business-development-managers",
+    "New": "/hire-freelancers/sales-marketing/strategy-research/business-development-managers"
+  },
+  {
+    "Old": "/freelance/sales-marketing/other",
+    "New": "/hire-freelancers/sales-marketing/other"
+  },
+  {
+    "Old": "/freelance/sales-marketing/other/video-marketer",
+    "New": "/hire-freelancers/sales-marketing/other/video-marketer"
+  },
+  {
+    "Old": "/freelance/sales-marketing/other/adsense-expert",
+    "New": "/hire-freelancers/sales-marketing/other/adsense-expert"
+  },
+  {
+    "Old": "/freelance/sales-marketing/other/survey-designer",
+    "New": "/hire-freelancers/sales-marketing/other/survey-designer"
+  },
+  {
+    "Old": "/freelance/sales-marketing/other/event-managers",
+    "New": "/hire-freelancers/sales-marketing/other/event-managers"
+  },
+  {
+    "Old": "/freelance/sales-marketing/other/google-analytics",
+    "New": "/hire-freelancers/sales-marketing/other/google-analytics"
+  },
+  {
+    "Old": "/freelance/sales-marketing/other/affiliate-marketers",
+    "New": "/hire-freelancers/sales-marketing/other/affiliate-marketers"
+  },
+  {
+    "Old": "/freelance/sales-marketing/other/fundraiser-consultants",
+    "New": "/hire-freelancers/sales-marketing/other/fundraiser-consultants"
+  },
+  {
+    "Old": "/freelance/sales-marketing/other/viral-marketing-specialists",
+    "New": "/hire-freelancers/sales-marketing/other/viral-marketing-specialists"
+  },
+  {
+    "Old": "/freelance/sales-marketing/other/mystery-shopper",
+    "New": "/hire-freelancers/sales-marketing/other/mystery-shopper"
+  },
+  {
+    "Old": "/freelance/sales-marketing/other/exhibition-designers",
+    "New": "/hire-freelancers/sales-marketing/other/exhibition-designers"
+  },
+  {
+    "Old": "/freelance/sales-marketing/other/community-manager",
+    "New": "/hire-freelancers/sales-marketing/other/community-manager"
+  },
+  {
+    "Old": "/freelance/sales-marketing/other/conversions",
+    "New": "/hire-freelancers/sales-marketing/other/conversions"
+  },
+  {
+    "Old": "/freelance/software-dev-mobile",
+    "New": "/hire-freelancers/software-dev-mobile"
+  },
+  {
+    "Old": "/freelance/software-dev-mobile/mobile-developers",
+    "New": "/hire-freelancers/software-dev-mobile/mobile-developers"
+  },
+  {
+    "Old": "/freelance/software-dev-mobile/mobile-developers/ios-app-developers",
+    "New": "/hire-freelancers/software-dev-mobile/mobile-developers/ios-app-developers"
+  },
+  {
+    "Old": "/freelance/software-dev-mobile/mobile-developers/android-app-developers",
+    "New": "/hire-freelancers/software-dev-mobile/mobile-developers/android-app-developers"
+  },
+  {
+    "Old": "/freelance/software-dev-mobile/mobile-developers/blackberry-developers",
+    "New": "/hire-freelancers/software-dev-mobile/mobile-developers/blackberry-developers"
+  },
+  {
+    "Old": "/freelance/software-dev-mobile/mobile-developers/windows-phone-developers",
+    "New": "/hire-freelancers/software-dev-mobile/mobile-developers/windows-phone-developers"
+  },
+  {
+    "Old": "/freelance/software-dev-mobile/database-programmer",
+    "New": "/hire-freelancers/software-dev-mobile/database-programmer"
+  },
+  {
+    "Old": "/freelance/software-dev-mobile/database-programmer/sql",
+    "New": "/hire-freelancers/software-dev-mobile/database-programmer/sql"
+  },
+  {
+    "Old": "/freelance/software-dev-mobile/database-programmer/sql-server",
+    "New": "/hire-freelancers/software-dev-mobile/database-programmer/sql-server"
+  },
+  {
+    "Old": "/freelance/software-dev-mobile/database-programmer/oracle",
+    "New": "/hire-freelancers/software-dev-mobile/database-programmer/oracle"
+  },
+  {
+    "Old": "/freelance/software-dev-mobile/database-programmer/mysql",
+    "New": "/hire-freelancers/software-dev-mobile/database-programmer/mysql"
+  },
+  {
+    "Old": "/freelance/software-dev-mobile/database-programmer/database-managers",
+    "New": "/hire-freelancers/software-dev-mobile/database-programmer/database-managers"
+  },
+  {
+    "Old": "/freelance/software-dev-mobile/database-programmer/mongodb",
+    "New": "/hire-freelancers/software-dev-mobile/database-programmer/mongodb"
+  },
+  {
+    "Old": "/freelance/software-dev-mobile/database-programmer/db-programming",
+    "New": "/hire-freelancers/software-dev-mobile/database-programmer/db-programming"
+  },
+  {
+    "Old": "/freelance/software-dev-mobile/java-developers",
+    "New": "/hire-freelancers/software-dev-mobile/java-developers"
+  },
+  {
+    "Old": "/freelance/software-dev-mobile/video-game-developers",
+    "New": "/hire-freelancers/software-dev-mobile/video-game-developers"
+  },
+  {
+    "Old": "/freelance/software-dev-mobile/software-testers",
+    "New": "/hire-freelancers/software-dev-mobile/software-testers"
+  },
+  {
+    "Old": "/freelance/software-dev-mobile/data-miner",
+    "New": "/hire-freelancers/software-dev-mobile/data-miner"
+  },
+  {
+    "Old": "/freelance/software-dev-mobile/c-plus-plus",
+    "New": "/hire-freelancers/software-dev-mobile/c-plus-plus"
+  },
+  {
+    "Old": "/freelance/software-dev-mobile/visual-basic-programmers",
+    "New": "/hire-freelancers/software-dev-mobile/visual-basic-programmers"
+  },
+  {
+    "Old": "/freelance/web-developers",
+    "New": "/hire-freelancers/web-developers"
+  },
+  {
+    "Old": "/freelance/web-developers/cms",
+    "New": "/hire-freelancers/web-developers/cms"
+  },
+  {
+    "Old": "/freelance/web-developers/cms/wordpress-developers",
+    "New": "/hire-freelancers/web-developers/cms/wordpress-developers"
+  },
+  {
+    "Old": "/freelance/web-developers/cms/joomla-developers",
+    "New": "/hire-freelancers/web-developers/cms/joomla-developers"
+  },
+  {
+    "Old": "/freelance/web-developers/cms/content-management-systems",
+    "New": "/hire-freelancers/web-developers/cms/content-management-systems"
+  },
+  {
+    "Old": "/freelance/web-developers/cms/drupal-developers",
+    "New": "/hire-freelancers/web-developers/cms/drupal-developers"
+  },
+  {
+    "Old": "/freelance/web-developers/custom-website-builders",
+    "New": "/hire-freelancers/web-developers/custom-website-builders"
+  },
+  {
+    "Old": "/freelance/web-developers/custom-website-builders/html-css",
+    "New": "/hire-freelancers/web-developers/custom-website-builders/html-css"
+  },
+  {
+    "Old": "/freelance/web-developers/custom-website-builders/psd-html",
+    "New": "/hire-freelancers/web-developers/custom-website-builders/psd-html"
+  },
+  {
+    "Old": "/freelance/web-developers/custom-website-builders/website-setup",
+    "New": "/hire-freelancers/web-developers/custom-website-builders/website-setup"
+  },
+  {
+    "Old": "/freelance/web-developers/custom-website-builders/custom",
+    "New": "/hire-freelancers/web-developers/custom-website-builders/custom"
+  },
+  {
+    "Old": "/freelance/web-developers/custom-website-builders/custom/hosting",
+    "New": "/hire-freelancers/web-developers/custom-website-builders/custom/hosting"
+  },
+  {
+    "Old": "/freelance/web-developers/custom-website-builders/custom/fixes",
+    "New": "/hire-freelancers/web-developers/custom-website-builders/custom/fixes"
+  },
+  {
+    "Old": "/freelance/web-developers/mobile-website",
+    "New": "/hire-freelancers/web-developers/mobile-website"
+  },
+  {
+    "Old": "/freelance/web-developers/ecommerce-website-developers",
+    "New": "/hire-freelancers/web-developers/ecommerce-website-developers"
+  },
+  {
+    "Old": "/freelance/web-developers/ecommerce-website-developers/magento",
+    "New": "/hire-freelancers/web-developers/ecommerce-website-developers/magento"
+  },
+  {
+    "Old": "/freelance/web-developers/ecommerce-website-developers/opencart",
+    "New": "/hire-freelancers/web-developers/ecommerce-website-developers/opencart"
+  },
+  {
+    "Old": "/freelance/web-developers/ecommerce-website-developers/prestashop",
+    "New": "/hire-freelancers/web-developers/ecommerce-website-developers/prestashop"
+  },
+  {
+    "Old": "/freelance/web-developers/ecommerce-website-developers/paypal",
+    "New": "/hire-freelancers/web-developers/ecommerce-website-developers/paypal"
+  },
+  {
+    "Old": "/freelance/web-developers/ecommerce-website-developers/shopify",
+    "New": "/hire-freelancers/web-developers/ecommerce-website-developers/shopify"
+  },
+  {
+    "Old": "/freelance/web-developers/ecommerce-website-developers/zencart",
+    "New": "/hire-freelancers/web-developers/ecommerce-website-developers/zencart"
+  },
+  {
+    "Old": "/freelance/web-developers/ecommerce-website-developers/bigcommerce",
+    "New": "/hire-freelancers/web-developers/ecommerce-website-developers/bigcommerce"
+  },
+  {
+    "Old": "/freelance/web-developers/blog-developer",
+    "New": "/hire-freelancers/web-developers/blog-developer"
+  },
+  {
+    "Old": "/freelance/web-developers/email-template",
+    "New": "/hire-freelancers/web-developers/email-template"
+  },
+  {
+    "Old": "/freelance/web-developers/social-app",
+    "New": "/hire-freelancers/web-developers/social-app"
+  },
+  {
+    "Old": "/freelance/web-developers/social-app/facebook-application",
+    "New": "/hire-freelancers/web-developers/social-app/facebook-application"
+  },
+  {
+    "Old": "/freelance/web-developers/social-app/twitter-app",
+    "New": "/hire-freelancers/web-developers/social-app/twitter-app"
+  },
+  {
+    "Old": "/freelance/web-developers/social-app/pinterest-app",
+    "New": "/hire-freelancers/web-developers/social-app/pinterest-app"
+  },
+  {
+    "Old": "/freelance/web-developers/social-app/google-plus-app",
+    "New": "/hire-freelancers/web-developers/social-app/google-plus-app"
+  },
+  {
+    "Old": "/freelance/web-developers/programming-language",
+    "New": "/hire-freelancers/web-developers/programming-language"
+  },
+  {
+    "Old": "/freelance/web-developers/programming-language/php",
+    "New": "/hire-freelancers/web-developers/programming-language/php"
+  },
+  {
+    "Old": "/freelance/web-developers/programming-language/asp-net",
+    "New": "/hire-freelancers/web-developers/programming-language/asp-net"
+  },
+  {
+    "Old": "/freelance/web-developers/programming-language/mysql",
+    "New": "/hire-freelancers/web-developers/programming-language/mysql"
+  },
+  {
+    "Old": "/freelance/web-developers/programming-language/wix",
+    "New": "/hire-freelancers/web-developers/programming-language/wix"
+  },
+  {
+    "Old": "/freelance/web-developers/programming-language/sharepoint",
+    "New": "/hire-freelancers/web-developers/programming-language/sharepoint"
+  },
+  {
+    "Old": "/freelance/web-developers/programming-language/javascript-jquery",
+    "New": "/hire-freelancers/web-developers/programming-language/javascript-jquery"
+  },
+  {
+    "Old": "/freelance/web-developers/programming-language/python",
+    "New": "/hire-freelancers/web-developers/programming-language/python"
+  },
+  {
+    "Old": "/freelance/web-developers/programming-language/ruby-on-rails",
+    "New": "https://www.peopleperhour.com/hire-freelancers/web-developers/programming-language/ruby-on-rails"
+  }
+]
