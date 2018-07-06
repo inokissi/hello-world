@@ -1,6 +1,8 @@
-// If a user changes their email address through the site,
-// then they should not be able to login using the new email address
-// unless they click on the confirmation link sent via email (Subject : "Verify your new email address!")
+// Given a user changes their email address via "Settings"
+// And they have not clicked on the verification link they received via email
+// When user tries to login using the new email
+// Then user should not be able to login
+
 describe('Change email address', function() {
     it('change email', function() {
         cy.clearCookies()
