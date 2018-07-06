@@ -31,7 +31,7 @@ describe('Change email address', function() {
 
         // Enter credentials
         cy.get('#main-container .login-form-container form input[name="LoginForm[email]"]').type('penny+mynewemail@peopleperhour.com')
-        cy.get('#main-container .login-form-container form input[name="LoginForm[password]"]').type('qwerty123')
+        cy.get('#main-container .login-form-container form input[name="LoginForm[password]"]').type('qwerty')
         cy.get('#main-container .login-form-container form input[type="submit"]').click()
 
         // Check if user is still on the login page
