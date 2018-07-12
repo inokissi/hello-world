@@ -1,19 +1,7 @@
 describe('REFERRAL PROGRAM', function() {
   var j
   it('should send invitation', function() {
-    cy.visit('/site/login')
-
-    // Enter email address
-    cy.get('#main-container .login-form-container form input[name="LoginForm[email]"]')
-      .type('penny+cypress@peopleperhour.com')
-
-    // Enter password
-    cy.get('#main-container .login-form-container form input[name="LoginForm[password]"]')
-      .type('cypress123')
-
-    // Click the LOG IN button
-    cy.get('#main-container .login-form-container form input[type="submit"]')
-      .click()
+    cy.LoginAsSeller()
 
     // Check if the login was successfull
     cy.url().should('include', '/dashboard')

@@ -6,7 +6,7 @@ describe('Raise Invoice', function() {
     cy.wait(3000)
 
     // Go to Workstream
-    cy.visit('/stream/view?id=12942331')
+    cy.visit('/stream/view?id=14802290')
 
     // Click on "Raise Invoice" tab in order to open the Invoice form
     cy.get('#stream-message-box .text').contains('Raise Invoice').click()

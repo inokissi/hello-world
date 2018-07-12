@@ -21,7 +21,9 @@ describe('Login page', function() {
     cy.get('.rememberMe').should('be.visible')
     cy.get('#LoginForm_rememberMe').should('be.checked')
   })
-
+  it('The "Forgot Password" link should be present on the form', function() {
+    cy.get('.forgotPassword').should('be.visible')
+  })
   it('"Login" button visible', function() {
     cy.get('.call-to-action').contains('Log In').should('be.visible')
   })
@@ -38,20 +40,20 @@ describe('Login page', function() {
     .click()
     //cy.get('.tooltip-inner').contains('Wrong email or password.')
   })
-  it('Successfull login', function() {
-    cy.visit('/site/login')
-    cy.get('#main-container .login-form-container form input[name="LoginForm[email]"]').type('penny+cypress@peopleperhour.com')
-    cy.get('#main-container .login-form-container form input[name="LoginForm[password]"]').type('cypress123')
-    cy.get('#main-container .login-form-container form input[type="submit"]')
-    .click()
+  it('Successfull login as Buyer', function() {
+    cy.LoginAsBuyer()
     cy.url().should('include', '/dashboard')
   })
-  // it('The "Forgot Password" link should be present on the form', function() {
-  //   cy.get('.forgotPassword').should('be.visible')
-  // })
+  it('Successfull login as Seller', function() {
+    cy.LoginAsSeller()
+    cy.url().should('include', '/dashboard')
+  })
   // it('The user should be able to reset password', function() {
+  //   cy.visit('/site/login')
   //   cy.get('.forgotPassword').click()
   //   cy.get('#ForgotPasswordForm_email').type('penny+cypressNEW@peopleperhour.com')
+  //   cy.get('#recaptcha-anchor .recaptcha-checkbox').check()
   //   cy.get('.call-to-action').contains('Reset').click()
+  //   cy.wait(3000)
   // })
 })

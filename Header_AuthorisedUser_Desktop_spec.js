@@ -12,6 +12,7 @@ describe('Seller header - Desktop', function() {
     it('"Sell" category : Removed',function() {
       cy.visit('')
       cy.get('#reactContainer Header .header⤍Header⤚3P2AL').should('not.contain','Sell')
+      cy.log('created new user')
     })
   })
 

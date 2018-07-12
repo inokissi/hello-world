@@ -1,4 +1,4 @@
-// Checking header elements for visibility and functionality
+// Checking header elements for visibility and functionality as a guest user
 
 describe('Anonymous user header - Desktop', function() {
   context('Removed items',function() {
@@ -19,11 +19,11 @@ describe('Anonymous user header - Desktop', function() {
     // Clicking Logo should lead user to homepage
     it('Clicking Logo should lead user to homepage',function() {
       cy.get('#reactContainer Header .logo__wrapper⤍Header⤚2oVZL svg').click()
-      cy.url().should('eq','https://staging.peopleperhour.com/')
+      cy.url().should('eq','https://www.peopleperhour.com/')
     })
-  }) 
+  })
   context('Post Job',function() {
-    // "Post job" button should be visible 
+    // "Post job" button should be visible
     it('"Post job" button : Visible',function() {
       cy.get('#reactContainer Header').contains('Post Job').should('be.visible')
     })
@@ -46,35 +46,35 @@ describe('Anonymous user header - Desktop', function() {
     // 1st subcategory : Freelancers
     it('1st subcategory : Freelancers',function() {
       cy.get('#reactContainer Header').contains('Browse').click()
-      cy.get('.dropdown⤍Header⤚3U6fY :nth-child(1)').should('contain','Freelancers')
+      cy.get('.dropdown⤍Header⤚3U6fY :nth-child(1)').should('contain','Browse Jobs')
     })
     // Selecting on "Freelancers" leads to Freelancer listing
     it('Selecting "Freelancers" leads to Freelancer listing',function() {
       cy.get('#reactContainer Header').contains('Browse').click()
-      cy.get('.dropdown⤍Header⤚3U6fY :nth-child(1)').contains('Freelancers').click({force:true})
-      cy.url().should('contain','/hire-freelancers')
+      cy.get('.dropdown⤍Header⤚3U6fY :nth-child(1)').contains('Browse Jobs').click({force:true})
+      cy.url().should('contain','/freelance-jobs')
     })
     // 2nd subcategory : Hourlies
     it('2nd subcategory : Hourlies',function() {
       cy.get('#reactContainer Header').contains('Browse').click()
-      cy.get('.dropdown⤍Header⤚3U6fY :nth-child(2)').should('contain','Hourlies')
+      cy.get('.dropdown⤍Header⤚3U6fY :nth-child(2)').should('contain','Browse Hourlies')
     })
     // Selecting on "Hourlies" leads to Hourlies listing
     it('Selecting "Hourlies" leads to Hourlies listing',function() {
       cy.get('#reactContainer Header').contains('Browse').click()
-      cy.get('.dropdown⤍Header⤚3U6fY :nth-child(2)').contains('Hourlies').click({force:true})
+      cy.get('.dropdown⤍Header⤚3U6fY :nth-child(2)').contains('Browse Hourlies').click({force:true})
       cy.url().should('contain','/hourlies')
     })
     // 3rd subcategory : Jobs
     it('3rd subcategory : Jobs',function() {
       cy.get('#reactContainer Header').contains('Browse').click()
-      cy.get('.dropdown⤍Header⤚3U6fY :nth-child(3)').should('contain','Jobs')
+      cy.get('.dropdown⤍Header⤚3U6fY :nth-child(3)').should('contain','Browse Freelancers')
     })
     // Selecting on "Jobs" leads to Jobs listing
     it('Selecting "Jobs" leads to Jobs listing',function() {
       cy.get('#reactContainer Header').contains('Browse').click()
-      cy.get('.dropdown⤍Header⤚3U6fY :nth-child(3)').contains('Jobs').click({force:true})
-      cy.url().should('contain','/freelance-jobs')
+      cy.get('.dropdown⤍Header⤚3U6fY :nth-child(3)').contains('Browse Freelancers').click({force:true})
+      cy.url().should('contain','/hire-freelancers')
     })
   })
 
@@ -89,9 +89,27 @@ describe('Anonymous user header - Desktop', function() {
       cy.url().should('contain','/static/how-it-works-buyer')
     })
   })
-    // "Login" link should be visible and should lead to login form
+    // "Login" link should be visible and lead to login form
+  context('Login',function() {
+    it('"Login" : Visible',function() {
+      cy.get('#reactContainer Header').should('contain','Log in')
+    })
+    it('Clicking on "Login" lead user to signup page',function() {
+      cy.get('Header').contains('Log in').click()
+      cy.url().should('contain','/site/login')
+    })
+  })
     // "Signup" link should be visible and lead to signup form
-  context('Freelancer',function() { 
+  context('Signup',function() {
+    it('"Signup" : Visible',function() {
+      cy.get('#reactContainer Header').should('contain','Sign up')
+    })
+    it('Clicking on "Signup" lead user to signup page',function() {
+      cy.get('Header').contains('Sign up').click()
+      cy.url().should('contain','/site/register')
+    })
+  })
+  context('Freelancer',function() {
     it('"Freelancer?" category : Visible',function() {
       cy.get('#reactContainer Header').should('contain','Freelancer?')
     })

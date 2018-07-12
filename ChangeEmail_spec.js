@@ -7,7 +7,6 @@ describe('Change email address', function() {
     it('change email', function() {
         cy.clearCookies()
 
-        // Login
         cy.LoginAsBuyer()
 
         // Check if Login was succesfull

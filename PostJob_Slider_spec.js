@@ -92,8 +92,8 @@ describe('SLIDER', function(){
 
       // Login
       cy.visit('/site/login')
-      cy.get('#main-container .login-form-container form input[name="LoginForm[email]"]').type('penny+buyer5555@peopleperhour.com')
-      cy.get('#main-container .login-form-container form input[name="LoginForm[password]"]').type('qwerty123')
+      cy.get('#main-container .login-form-container form input[name="LoginForm[email]"]').type('penny+cypress@peopleperhour.com')
+      cy.get('#main-container .login-form-container form input[name="LoginForm[password]"]').type('qwerty')
       cy.get('#main-container .login-form-container form input[type="submit"]').click()
       cy.wait(3000)
 
@@ -106,9 +106,11 @@ describe('SLIDER', function(){
       cy.get('select[name="Projects[subcate_id]"]').select('Accounting')
       cy.get('select[name="Projects[project_type]"]').select('Fixed Price')
       cy.get('#Projects_proj_desc').type('This is the description of the project. Please read carefully and feel free to ask if you have any questions.')
-
+      cy.get(':nth-child(2) > label > .xpBody').click()
+      
       // Submit form
       cy.get('#form-job').submit()
+      cy.url().should('not.contain','/job/new/?budgetSlider=1')
     })
   })
 })
