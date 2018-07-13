@@ -1,6 +1,6 @@
-// Jira link : https://peopleperhour.atlassian.net/browse/TRO-772  
+// Test if the header buttons, links and dropdown menus are working as expected
 describe('Seller header - Desktop', function() {
-    beforeEach(() => {
+  beforeEach(() => {
     cy.LoginAsSeller()
     cy.wait(3000)
   })
@@ -15,9 +15,8 @@ describe('Seller header - Desktop', function() {
       cy.log('created new user')
     })
   })
-
   context('Post Job',function() {
-    // "Post job" button should be visible 
+    // "Post job" button should be visible
     it('"Post job" button : Visible',function() {
       cy.get('#reactContainer Header').contains('Post Job').should('be.visible')
     })
@@ -29,7 +28,6 @@ describe('Seller header - Desktop', function() {
   })
 
   context('Browse',function() {
-
     it('"Browse" category : Visible',function() {
       cy.get('#reactContainer Header').contains('Browse').should('be.visible')
     })
@@ -75,7 +73,7 @@ describe('Seller header - Desktop', function() {
 
   //Boost Your Sales and View Leaderboard are removed
   context('Favourites',function() {
-  
+
     it('Favourites menu : Visible',function() {
       cy.get('#reactContainer Header .fpph-heart')
     })
@@ -93,7 +91,7 @@ describe('Seller header - Desktop', function() {
 
   // User menu
   context('User menu',function() {
-   
+
     // User name should be removed from the avatar.
     it('User name removed from avatar',function() {
       cy.get('.menu__link--greeting⤍HeaderLoggedLegacy⤚34iIQ').should('not.contain','Hi Penny')

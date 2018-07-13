@@ -17,6 +17,6 @@ describe('Send Proposal', function(){
     cy.get('#stream-message-box .total ').type('300')
 
     // Click the "Send" button to submit form
-    cy.get('#sendSimple').contains('Send')//.click()
+    cy.get('#sendSimple').contains('Send').click()
   })
 })

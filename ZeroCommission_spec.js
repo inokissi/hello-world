@@ -1,11 +1,8 @@
 describe('ZERO COMMISSION', function() {
   it('should send multiple invitations and take a screenshot', function() {
     // Login
-    cy.visit('/site/login')
-    cy.get('input[name="LoginForm[email]"]').type('whatever+224668@peopleperhour.com')
-    cy.get('input[name="LoginForm[password]"]').type('a')
-    cy.get('#yw0').submit()
-    cy.wait(4000)
+    cy.LoginAsSeller()
+    cy.wait(3000)
 
     // Go to "Zero Commission" page
     cy.visit('/zero-service-fee')
